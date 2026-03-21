@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Bastola<br><br>🔭 I’m currently working on cybersecurity, networking, and IT support projects<br><br>🤝 I’m looking to collaborate on open-source security tools, Python automation, and practical IT solutions<br><br>🆘 I’m looking for help with advanced penetration testing and cloud security (AWS/Azure)<br><br>🌱 I’m currently Learning network security, troubleshooting, IT workflows, system design patterns, and real-world troubleshooting<br><br>💬 Ask me about tech, problem-solving, real-world IT issues, system-administration,  Cybersec<br><br>⚡ Fun fact: My project folders are always organized into Project_Final, Project_Final_v2, Project_Final_ACTUAL, and Project_Final_PLEASE_WORK 😅
+👋 Hi, I’m Bastola<br><br>
+![Snake animation](https://github.com/Mr-Bastola/Mr-Bastola/blob/output/github-snake.svg)
+
+🔭 I’m currently working on cybersecurity, networking, and IT support projects<br><br>🤝 I’m looking to collaborate on open-source security tools, Python automation, and practical IT solutions<br><br>🆘 I’m looking for help with advanced penetration testing and cloud security (AWS/Azure)<br><br>🌱 I’m currently Learning network security, troubleshooting, IT workflows, system design patterns, and real-world troubleshooting<br><br>💬 Ask me about tech, problem-solving, real-world IT issues, system-administration,  Cybersec<br><br>⚡ Fun fact: My project folders are always organized into Project_Final, Project_Final_v2, Project_Final_ACTUAL, and Project_Final_PLEASE_WORK 😅
 
 
 ## 🌐 Socials:
