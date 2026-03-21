@@ -17,5 +17,9 @@
 
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg" alt="Snake Animation" width="100%">
+  <img 
+    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg" 
+    alt="GitHub Snake" 
+    style="pointer-events: none; max-width: 100%;"
+  />
 </div>
