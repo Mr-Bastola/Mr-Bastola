@@ -1,56 +1,62 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Cybersecurity+Engineer;Network+Architect;Ethical+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Forensic+Analyst;Network+Architect;Ethical+Hacker" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security-Red_Team-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network-CCNA_Path-blue?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active_Threat_Hunting-green?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Security_Researcher-00FF00?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/Field-Digital_Forensics-blue?style=for-the-badge&logo=data-dog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expertise-Ethical_Hacking-red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
 </p>
 
 ---
 
-### 🌑 System Information
-- 🛰️ **Location:** Kathmandu, Nepal  
-- 💻 **Main OS:** **Kali Linux** | **Arch Linux** | **Windows 11 Pro** - 🛡️ **Current Lab:** 3 Node **Proxmox** Cluster running **PFsense** & **Active Directory** - 🎯 **Targets:** Breaking into OSCP labs and mastering Cloud Security.
+### 🕵️ System Briefing
+- 🛠️ **Current Research:** Advanced Malware Analysis & memory forensics using Volatility.
+- 🧪 **Home Lab:** Hybrid Cloud environment with **AWS**, **Proxmox**, and **pfSense**.
+- 🔍 **Specialization:** Network pivoting, SIEM monitoring, and incident response.
+- 🎯 **Targets:** Mastering **OSCP**, **CHFI**, and **CompTIA Security+** domains.
 
 ---
 
-### 🚀 Tech Arsenal
+### 🛡️ Tactical Arsenal
 
 <table align="center">
   <tr>
-    <td align="center" width="250">
-      <b>Pentesting & Hacking</b><br />
-      <img src="https://skillicons.dev/icons?i=kali,linux,nmap,bash,docker" />
+    <td align="center" width="350">
+      <b>⚔️ Offensive Security (Ethical Hacking)</b><br />
+      <img src="https://skillicons.dev/icons?i=kali,nmap,metasploit,bash,python" />
+      <br /><i>BurpSuite | Metasploit | JohnTheRipper | SQLmap</i>
     </td>
-    <td align="center" width="250">
-      <b>Networking & Infrastructure</b><br />
-      <img src="https://skillicons.dev/icons?i=ansible,nginx,pws,aws,gcp" />
+    <td align="center" width="350">
+      <b>🛡️ Defensive Security (Blue Team)</b><br />
+      <img src="https://skillicons.dev/icons?i=splunk,elasticsearch,sentinel,linux,pws" />
+      <br /><i>SIEM | Wireshark | Snort | Crowdstrike | Nessus</i>
     </td>
   </tr>
   <tr>
-    <td align="center" width="250">
-      <b>Programming & DB</b><br />
-      <img src="https://skillicons.dev/icons?i=py,flask,mysql,mongodb,js" />
+    <td align="center" width="350">
+      <b>🔍 Digital Forensics (DFIR)</b><br />
+      <img src="https://skillicons.dev/icons?i=linux,debian,mongodb,mysql" />
+      <br /><i>Autopsy | Volatility | FTK Imager | EnCase</i>
     </td>
-    <td align="center" width="250">
-      <b>Software & Tools</b><br />
-      <img src="https://skillicons.dev/icons?i=git,vscode,postman,sublime,discord" />
+    <td align="center" width="350">
+      <b>☁️ Cloud & Server Infrastructure</b><br />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,nginx" />
+      <br /><i>Windows Server | Ubuntu | Proxmox | Kubernetes</i>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧪 Security Frameworks & Protocols
-- **Methodologies:** `OWASP Top 10` | `MITRE ATT&CK` | `NIST` | `PTES`
-- **Networking:** `BGP` | `OSPF` | `VLAN Tagging` | `VPN (OpenVPN/Wireguard)` | `IPsec`
-- **Security:** `SOC Operations` | `SIEM (ELK/Splunk)` | `IDS/IPS (Snort)` | `Cryptography`
+### 📡 Networking & Protocols
+- **Infrastructure:** `Cisco IOS` | `BGP` | `OSPF` | `VLANs` | `Subnetting`
+- **Security:** `IPsec` | `Wireguard` | `OpenVPN` | `Zero Trust` | `SSL/TLS`
+- **Analysis:** `Packet Inspection` | `Flow Analysis` | `Traffic Shaping`
 
 ---
 
-### 📊 Tactical Data
+### 📊 Tactical Metrics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Bastola&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -65,16 +71,16 @@
 <h2 align="center">🐍 Snake Contribution Map</h2>
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=20" 
+    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=25" 
     alt="GitHub Snake Animation" 
     width="100%"
-    style="image-rendering: pixelated; border-radius: 10px;"
+    style="image-rendering: pixelated; border-radius: 10px; background-color: #161b22;"
   />
 </p>
 
 ---
 
-### 📬 Connect with the Node
+### 📬 Establish Connection
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
