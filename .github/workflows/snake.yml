@@ -9,12 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Purple Snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Mr-Bastola
           outputs: |
-            dist/purple-snake.svg?color_snake=#9933ff&color_dots=#161b22,#301e4a,#5d338a,#8146c9,#a559f8
+            dist/github-snake.svg?color_snake=#9933ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+        # #9933ff is the Purple Snake
+        # #161b22 is the GitHub Background
+        # The other hex codes are the standard Green contribution levels
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
