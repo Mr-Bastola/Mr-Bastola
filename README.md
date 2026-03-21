@@ -182,9 +182,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bastola&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00FF00&langs_count=10" height="180em" />
 </p>
 
----
-
-<h2 align="center">🐍 Contribution Snake Map</h2>
 
 <h2 align="center">🐍 Snake Contribution Map</h2>
 <p align="center">
