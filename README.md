@@ -11,10 +11,11 @@
 ---
 
 ### 🕵️ System Briefing
-- 🛠️ **Current Research:** Advanced Malware Analysis & memory forensics using Volatility.
-- 🧪 **Home Lab:** Hybrid Cloud environment with **AWS**, **Proxmox**, and **pfSense**.
-- 🔍 **Specialization:** Network pivoting, SIEM monitoring, and incident response.
-- 🎯 **Targets:** Mastering **OSCP**, **CHFI**, and **CompTIA Security+** domains.
+- ⚡ **Kernel:** Linux Enthusiast | **Kali** & **Arch** Power User.
+- 🔍 **Intel:** Specializing in **Malware Analysis**, **Memory Forensics**, and **OSINT**.
+- 🧪 **Labs:** Managing a **Hybrid Cloud** (AWS/Azure) + **Proxmox** Virtualization.
+- 🛡️ **Defense:** Deploying **IDS/IPS**, **Firewalls**, and **Zero-Trust** architectures.
+- 🎯 **Mission:** Hardening systems, breaking ciphers, and securing the packet flow.
 
 ---
 
@@ -22,37 +23,51 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="350">
-      <b>⚔️ Offensive Security (Ethical Hacking)</b><br />
-      <img src="https://skillicons.dev/icons?i=kali,nmap,metasploit,bash,python" />
-      <br /><i>BurpSuite | Metasploit | JohnTheRipper | SQLmap</i>
+    <td align="center" width="400">
+      <b>⚔️ Exploitation & Red Teaming</b><br />
+      <img src="https://skillicons.dev/icons?i=kali,metasploit,python,bash" /><br />
+      <code>BurpSuite</code> | <code>Beef</code> | <code>SQLmap</code> | <code>CobaltStrike</code> | <code>Empire</code>
     </td>
-    <td align="center" width="350">
-      <b>🛡️ Defensive Security (Blue Team)</b><br />
-      <img src="https://skillicons.dev/icons?i=splunk,elasticsearch,sentinel,linux,pws" />
-      <br /><i>SIEM | Wireshark | Snort | Crowdstrike | Nessus</i>
+    <td align="center" width="400">
+      <b>🛡️ Blue Team & SOC Ops</b><br />
+      <img src="https://skillicons.dev/icons?i=splunk,elasticsearch,sentinel,linux" /><br />
+      <code>Wazuh</code> | <code>Snort</code> | <code>Suricata</code> | <code>Nessus</code> | <code>OpenVAS</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="350">
+    <td align="center" width="400">
       <b>🔍 Digital Forensics (DFIR)</b><br />
-      <img src="https://skillicons.dev/icons?i=linux,debian,mongodb,mysql" />
-      <br /><i>Autopsy | Volatility | FTK Imager | EnCase</i>
+      <img src="https://skillicons.dev/icons?i=debian,mysql,mongodb,github" /><br />
+      <code>Autopsy</code> | <code>Volatility</code> | <code>Wireshark</code> | <code>FTK</code> | <code>Ghidra</code>
     </td>
-    <td align="center" width="350">
-      <b>☁️ Cloud & Server Infrastructure</b><br />
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,nginx" />
-      <br /><i>Windows Server | Ubuntu | Proxmox | Kubernetes</i>
+    <td align="center" width="400">
+      <b>☁️ Cloud & Server Hardening</b><br />
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" /><br />
+      <code>Nginx</code> | <code>Active Directory</code> | <code>Docker Swarm</code> | <code>Terraform</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <b>💻 Programming & Scripting</b><br />
+      <img src="https://skillicons.dev/icons?i=py,bash,js,c,cpp,mysql" /><br />
+      <code>Automation</code> | <code>Scapy</code> | <code>Payload Dev</code> | <code>RegEx</code>
+    </td>
+    <td align="center" width="400">
+      <b>🛠️ Testing & OSINT</b><br />
+      <img src="https://skillicons.dev/icons?i=postman,git,vscode,discord,ubuntu" /><br />
+      <code>Shodan</code> | <code>Maltego</code> | <code>SpiderFoot</code> | <code>ZAP Proxy</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📡 Networking & Protocols
-- **Infrastructure:** `Cisco IOS` | `BGP` | `OSPF` | `VLANs` | `Subnetting`
-- **Security:** `IPsec` | `Wireguard` | `OpenVPN` | `Zero Trust` | `SSL/TLS`
-- **Analysis:** `Packet Inspection` | `Flow Analysis` | `Traffic Shaping`
+### 📡 Networking & Protocols (Deep Dive)
+<p align="left">
+  <b>• Routing & Switching:</b> <code>BGP</code> | <code>OSPFv3</code> | <code>EIGRP</code> | <code>VLAN Trunking (802.1Q)</code> | <code>STP</code> | <code>HSRP</code><br />
+  <b>• Security Protocols:</b> <code>IPsec</code> | <code>Wireguard</code> | <code>SSL/TLS 1.3</code> | <code>SSH/SFTP</code> | <code>DNSSEC</code> | <code>TACACS+</code><br />
+  <b>• Analysis & Transport:</b> <code>ICMP/TCP/UDP</code> | <code>HTTP/3</code> | <code>SNMPv3</code> | <code>NetFlow</code> | <code>Packet Crafting</code>
+</p>
 
 ---
 
@@ -71,7 +86,7 @@
 <h2 align="center">🐍 Snake Contribution Map</h2>
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=25" 
+    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=30" 
     alt="GitHub Snake Animation" 
     width="100%"
     style="image-rendering: pixelated; border-radius: 10px; background-color: #161b22;"
