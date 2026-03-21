@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Penetration+Tester;Network+Architect;Forensic+Expert;Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Forensic+Analyst;Network+Architect;Ethical+Hacker" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,13 +11,13 @@
 ---
 
 ### 🕵️ System Briefing
-**Hello! I am Mr-Bastola.** I am a dedicated Security Researcher with a passion for deconstructing complex systems to understand how they work—and how they fail. My journey involves a deep dive into the intersection of high-level network architecture and low-level system exploitation.
+**Greetings! I am Mr-Bastola.** I am a Security Researcher and Systems Architect dedicated to the art of cyber-resilience. My work focuses on the full lifecycle of a system—from designing high-availability network infrastructures to identifying the deep-seated vulnerabilities that threaten them. I bridge the gap between aggressive offensive research and robust defensive engineering.
 
-* ⚡ **Environments:** Enthusiastic **Linux Architect** (Kali/Arch) & **Windows Server** Admin.
-* 🔍 **Core Intel:** Specialized in **Malware Analysis**, **Memory Forensics**, and **OSINT**.
-* 🧪 **The Lab:** Currently maintaining a **Hybrid Cloud** (AWS/Azure) + **Proxmox** Virtualization.
-* 🛡️ **Strategic Defense:** Designing **Zero-Trust** models, **IDS/IPS** clusters, and **Next-Gen Firewalls**.
-* 🎯 **The Mission:** Hardening global infrastructures, breaking modern ciphers, and securing the packet flow.
+* ⚡ **Command Center:** Specialized in **Linux Kernel Hardening** (Arch/Kali) & **Enterprise Windows Server** environments.
+* 🔍 **Intelligence:** Advanced proficiency in **Malware Analysis**, **Memory Forensics (DFIR)**, and **Deep-Web OSINT**.
+* 🧪 **Hybrid Lab:** Architecting scalable environments using **Proxmox VE**, **AWS**, and **Azure** cloud clusters.
+* 🛡️ **Defense Strategy:** Implementing **Zero-Trust** frameworks, **Next-Gen Firewalls (NGFW)**, and **SIEM/SOAR** integration.
+* 🎯 **Mission Objective:** Neutralizing threats at the packet level, auditing cryptographic integrity, and building unshakeable digital foundations.
 
 ---
 
@@ -26,38 +26,45 @@
 <table align="center">
   <tr>
     <td align="center" width="400">
-      <b>🌐 Networking & Protocols</b><br />
-      <img src="https://skillicons.dev/icons?i=paloalto,aws,azure" /><br />
-      <code>BGP/OSPF</code> | <code>VLAN/STP</code> | <code>TCP/UDP</code> | <code>HTTP/3</code> | <code>DNSSEC</code>
+      <b>⚔️ Exploitation & Offensive Security</b><br />
+      <img src="https://skillicons.dev/icons?i=kali,metasploit,nmap" /><br />
+      <code>BurpSuite Pro</code> | <code>CobaltStrike</code> | <code>BeEF</code> | <code>SQLmap</code> | <code>Exploit-DB</code>
     </td>
     <td align="center" width="400">
-      <b>⚔️ Cybersecurity Tooling</b><br />
-      <img src="https://skillicons.dev/icons?i=kali,nmap,metasploit" /><br />
-      <code>BurpSuite</code> | <code>Wireshark</code> | <code>BeEF</code> | <code>ZAP</code> | <code>SQLmap</code>
+      <b>🛡️ Protection & Hardening</b><br />
+      <img src="https://skillicons.dev/icons?i=linux,pws,nginx" /><br />
+      <code>Fail2Ban</code> | <code>IPtables/NFTables</code> | <code>AppArmor</code> | <code>SELinux</code> | <code>OpenVPN</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="400">
-      <b>📚 Frameworks & Methods</b><br />
+      <b>📡 Network Engineering & Analysis</b><br />
+      <img src="https://skillicons.dev/icons?i=c,aws,azure" /><br />
+      <code>Wireshark</code> | <code>BGP/OSPF</code> | <code>GNS3</code> | <code>Tcpdump</code> | <code>HSRP/VLAN</code>
+    </td>
+    <td align="center" width="400">
+      <b>🛡️ SOC & Blue Team Operations</b><br />
+      <img src="https://skillicons.dev/icons?i=splunk,elasticsearch,sentinel" /><br />
+      <code>Wazuh</code> | <code>Snort/Suricata</code> | <code>Graylog</code> | <code>Nessus</code> | <code>TheHive</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <b>🔍 Digital Forensics (DFIR)</b><br />
+      <img src="https://skillicons.dev/icons?i=debian,mongodb,mysql" /><br />
+      <code>Volatility 3</code> | <code>Autopsy</code> | <code>Ghidra</code> | <code>FTK Imager</code> | <code>Binwalk</code>
+    </td>
+    <td align="center" width="400">
+      <b>🖥️ Cloud & Virtualization</b><br />
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" /><br />
-      <code>OWASP Top 10</code> | <code>MITRE ATT&CK</code> | <code>NIST</code> | <code>Nessus</code>
-    </td>
-    <td align="center" width="400">
-      <b>💻 Dev & Scripting</b><br />
-      <img src="https://skillicons.dev/icons?i=py,bash,js,mysql,cpp" /><br />
-      <code>Automation</code> | <code>Scapy</code> | <code>Payload Dev</code> | <code>Regex</code> | <code>Git</code>
+      <code>Proxmox</code> | <code>Active Directory</code> | <code>ESXi</code> | <code>Ansible</code> | <code>Vagrant</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="400">
-      <b>🔍 Forensics & Analysis</b><br />
-      <img src="https://skillicons.dev/icons?i=linux,debian,mongodb" /><br />
-      <code>Autopsy</code> | <code>Volatility</code> | <code>Ghidra</code> | <code>FTK</code> | <code>EnCase</code>
-    </td>
-    <td align="center" width="400">
-      <b>🖥️ OS Environments</b><br />
-      <img src="https://skillicons.dev/icons?i=ubuntu,windows,arch,apple" /><br />
-      <code>Win Server</code> | <code>Kali</code> | <code>Debian</code> | <code>Proxmox</code> | <code>CentOS</code>
+    <td colspan="2" align="center">
+      <b>💻 Programming & Security Automation</b><br />
+      <img src="https://skillicons.dev/icons?i=py,bash,js,cpp,git" /><br />
+      <code>Scapy (Packet Crafting)</code> | <code>Socket Programming</code> | <code>Payload Obfuscation</code> | <code>CI/CD DevSecOps</code>
     </td>
   </tr>
 </table>
@@ -79,7 +86,7 @@
 <h2 align="center">🐍 Snake Contribution Map</h2>
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=35" 
+    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=40" 
     alt="GitHub Snake Animation" 
     width="100%"
     style="image-rendering: pixelated; border-radius: 10px; background-color: #161b22;"
