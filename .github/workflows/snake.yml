@@ -2,21 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every 24 hours
-  workflow_dispatch: # Allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Purple Snake
+      - name: Generate Slow Purple Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Mr-Bastola
           outputs: |
-            dist/github-snake.svg?color_snake=#9933ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-        # Snake: Purple (#9933ff)
-        # Dots: Standard GitHub Dark Greens
+            dist/github-snake.svg?color_snake=#9933ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&speed=200
+        # speed=200 is roughly 2x slower than the default. 
+        # Increase to 300 if you want it even slower.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
