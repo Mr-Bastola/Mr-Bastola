@@ -15,11 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br/>
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg" 
-    alt="GitHub Snake" 
-    style="pointer-events: none; max-width: 100%;"
-  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=3" />
+</p>
