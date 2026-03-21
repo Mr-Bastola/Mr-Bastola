@@ -1,69 +1,63 @@
-# 👋 Hi, I'm Mr-Bastola | Cybersec & Network Engineer
-<p align="left">
-  <img src="https://img.shields.io/badge/-Penetration_Testing-red?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network_Architecture-blue?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Open_Source-green?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Cybersecurity+Engineer;Network+Architect;Ethical+Hacker" alt="Typing SVG" />
+</h1>
 
----
-
-### 🛡️ Professional Profile
-- 🔭 **I’m currently working on:** Automated Vulnerability Scanning scripts using Python.
-- 🧪 **Home Lab:** Running a Proxmox environment with vulnerable VMs (VulnHub/HTB).
-- 📜 **Syllabus Focus:** Network Security, Cryptography, and Advanced TCP/IP.
-- 💬 **Ask me about:** OSINT, Port Forwarding, and Linux Hardening.
-
----
-
-### 🛠️ Technical Knowledge Base
-
-**🌐 Networking & Protocols**
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco_IOS-049BD9?style=flat&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP/IP-000000?style=flat&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS/DHCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPN/IPsec-FF6600?style=flat&logo=palo-alto-networks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-</p>
-
-**⚔️ Cybersecurity Tooling**
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-42F425?style=flat&logo=nmap&logoColor=black" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-7F0000?style=flat&logo=linux&logoColor=white" />
-</p>
-
-**📚 Security Frameworks & Methods**
-<p align="left">
-  <img src="https://img.shields.io/badge/OWASP_Top_10-3776AB?style=flat&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=flat&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerability_Management-EF2D5E?style=flat&logo=micro-strategy&logoColor=white" />
-</p>
-
-**💻 Dev & Scripting**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-</p>
-
-**🖥️ OS Environments**
-<p align="left">
-  <img src="https://img.shields.io/badge/Ubuntu_Server-E94333?style=flat&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Bastola&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bastola&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://img.shields.io/badge/Security-Red_Team-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-CCNA_Path-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active_Threat_Hunting-green?style=for-the-badge&logo=target&logoColor=white" />
+</p>
+
+---
+
+### 🌑 System Information
+- 🛰️ **Location:** Kathmandu, Nepal  
+- 💻 **Main OS:** **Kali Linux** | **Arch Linux** | **Windows 11 Pro** - 🛡️ **Current Lab:** 3 Node **Proxmox** Cluster running **PFsense** & **Active Directory** - 🎯 **Targets:** Breaking into OSCP labs and mastering Cloud Security.
+
+---
+
+### 🚀 Tech Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <b>Pentesting & Hacking</b><br />
+      <img src="https://skillicons.dev/icons?i=kali,linux,nmap,bash,docker" />
+    </td>
+    <td align="center" width="250">
+      <b>Networking & Infrastructure</b><br />
+      <img src="https://skillicons.dev/icons?i=ansible,nginx,pws,aws,gcp" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <b>Programming & DB</b><br />
+      <img src="https://skillicons.dev/icons?i=py,flask,mysql,mongodb,js" />
+    </td>
+    <td align="center" width="250">
+      <b>Software & Tools</b><br />
+      <img src="https://skillicons.dev/icons?i=git,vscode,postman,sublime,discord" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧪 Security Frameworks & Protocols
+- **Methodologies:** `OWASP Top 10` | `MITRE ATT&CK` | `NIST` | `PTES`
+- **Networking:** `BGP` | `OSPF` | `VLAN Tagging` | `VPN (OpenVPN/Wireguard)` | `IPsec`
+- **Security:** `SOC Operations` | `SIEM (ELK/Splunk)` | `IDS/IPS (Snort)` | `Cryptography`
+
+---
+
+### 📊 Tactical Data
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Bastola&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Bastola&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bastola&layout=compact&theme=tokyonight&border_radius=10" height="180em" />
 </p>
 
 ---
@@ -71,13 +65,22 @@
 <h2 align="center">🐍 Snake Contribution Map</h2>
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=18" 
+    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=20" 
     alt="GitHub Snake Animation" 
     width="100%"
-    style="image-rendering: pixelated;"
+    style="image-rendering: pixelated; border-radius: 10px;"
   />
 </p>
 
+---
+
+### 📬 Connect with the Node
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-Bastola&label=Profile%20Views&color=00ff00&style=flat" alt="Profile Views" />
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-Bastola&label=INTRUSIONS%20DETECTED&color=00ff00&style=flat-square" alt="Profile Views" />
 </p>
