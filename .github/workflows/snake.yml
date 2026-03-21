@@ -2,8 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every 24 hours
-  workflow_dispatch: # Allows you to run it manually
+    # Runs every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,9 +15,10 @@ jobs:
         with:
           github_user_name: Mr-Bastola
           outputs: |
-            dist/github-snake.svg?color_snake=#00FF00&color_dots=#161b22,#01311f,#034525,#0f6a31,#21a044
-        # #161b22 is the exact GitHub Dark background
-        # #00FF00 is the Neon Green Snake
+            dist/github-snake.svg?color_snake=#9933ff&color_dots=#161b22,#301e4a,#5d338a,#8146c9,#a559f8
+        # #9933ff is the Purple Snake
+        # #161b22 is the Dark GitHub Background
+        # The other hex codes are different shades of purple for your dots
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
