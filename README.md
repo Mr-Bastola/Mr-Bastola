@@ -110,7 +110,7 @@
 <h2 align="center">🐍 Purple Snake Contribution Map</h2>
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=60" 
+    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/purple-snake.svg" 
     alt="GitHub Purple Snake Animation" 
     width="100%"
     style="image-rendering: pixelated; border-radius: 10px;"
