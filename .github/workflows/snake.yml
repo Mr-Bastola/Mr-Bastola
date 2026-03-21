@@ -2,27 +2,26 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs every 24 hours
+  workflow_dispatch: # Allows manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Animation
+      - name: Generate Purple Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Mr-Bastola
           outputs: |
             dist/github-snake.svg?color_snake=#9933ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-        # #9933ff is the Purple Snake
-        # #161b22 is the GitHub Background
-        # The other hex codes are the standard Green contribution levels
+        # Snake: Purple (#9933ff)
+        # Dots: Standard GitHub Dark Greens
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
