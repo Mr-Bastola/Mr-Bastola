@@ -107,11 +107,11 @@
 
 ---
 
-<h2 align="center">🐍 Snake Contribution Map</h2>
+<h2 align="center">🐍 Purple Snake Contribution Map</h2>
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=20" 
-    alt="GitHub Snake Animation" 
+    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=60" 
+    alt="GitHub Purple Snake Animation" 
     width="100%"
     style="image-rendering: pixelated; border-radius: 10px;"
   />
