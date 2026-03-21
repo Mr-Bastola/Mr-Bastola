@@ -186,15 +186,15 @@
 
 <h2 align="center">🐍 Contribution Snake Map</h2>
 
+<h2 align="center">🐍 Snake Contribution Map</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=20" 
+    alt="GitHub Snake Animation" 
+    width="100%"
+    style="image-rendering: pixelated; border-radius: 10px;"
+  />
 </p>
-
----
 
 ### 📬 Establish Connection
 
