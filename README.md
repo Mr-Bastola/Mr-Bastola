@@ -15,10 +15,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<h2 align="center">Snake Contribution Map</h2>
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=10" 
+    src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=15" 
     alt="GitHub Snake Animation" 
     width="100%"
+    style="image-rendering: pixelated;"
   />
 </p>
