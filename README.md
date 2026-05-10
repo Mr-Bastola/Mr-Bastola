@@ -107,7 +107,7 @@
 
 ---
 
-<h2 align="center">🐍 Purple Snake Contribution Map</h2>
+<h2 align="center">🐍 Snake Contribution Map</h2>
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=777" 
