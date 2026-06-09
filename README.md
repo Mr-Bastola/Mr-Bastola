@@ -94,7 +94,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+<!--### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Bastola&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
@@ -105,7 +105,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bastola&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00FF00&langs_count=8" height="180em" />
 </p>
 
----
+--- -->
 
 <h2 align="center">🐍 Snake Contribution Map</h2>
 <p align="center">
