@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-Engineer-00FF00?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Network-Architect-0055cc?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Analyst-cc2222?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems--Engineer-00FF00?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network--Architect-0055cc?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security--Analyst-cc2222?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
@@ -14,12 +14,36 @@
 
 > **"I understand systems, networks, and security — and I build, analyze, and automate them."**
 
-I am a systems and network security focused engineer. I bridge the gap between enterprise-grade administration, robust network routing/switching architectures, and defensive security operations. I specialize in configuring resilient infrastructure environments, automating repetitive engineering tasks, and diagnosing complex system failures under pressure.
+I am a systems and network security focused engineer. I bridge the gap between enterprise administration, robust network architectures, and defensive operations. I specialize in configuring resilient environments, diagnosing infrastructure issues under pressure, and automating repetitive tasks to keep systems secure and available.
 
-- 🖥️ **OS Ecosystems:** `Linux (Ubuntu/Debian)` · `Windows Server (2016/2022)` · `Windows Desktop (10/11)`
+- 🖥️ **OS Ecosystems:** `Linux (Ubuntu/Debian)` · `Windows Server` · `Windows Desktop (10/11)`
 - 📡 **Networking Core:** `Advanced Routing & Switching` · `VLAN Segmentation` · `Packet Analysis`
-- 🛠️ **Infrastructure Operations:** `System Administration` · `Technical Support & Advanced Diagnostics`
-- ⚙️ **Automation & Logic:** `Python` · `Bash Scripting` · `PowerShell` · `Data Structures & Algorithms`
+- 🛠️ **Infrastructure Operations:** `System Administration` · `Technical Support & Advanced Troubleshooting`
+- ⚙️ **Automation & Logic:** `Python` · `Bash Scripting` · `PowerShell` · `Data Structures (DSA)`
+
+---
+
+### 🎓 Academic Core & Applied Engineering (BCSIT)
+
+#### 📡 Enterprise Routing & Switching
+<p><img src="https://skillicons.dev/icons?i=cisco,cloudflare" /></p>
+* Focuses on structural switching architectures, multi-area routing protocols, network isolation via VLANs, and engineering resilient data pathways while troubleshooting performance bottlenecks.
+
+#### 🖥️ Systems Administration & Lifecycle Management
+<p><img src="https://skillicons.dev/icons?i=linux,windows" /></p>
+* Hands-on implementation of enterprise directory services, Active Directory, GPO infrastructure, system hardening, access control mapping, and comprehensive event log auditing.
+
+#### 🛠️ Technical Diagnostics & OS Troubleshooting
+<p><img src="https://skillicons.dev/icons?i=powershell,bash" /></p>
+* Deep OS-level triaging—analyzing system event logs, identifying driver and registry corruption, resolving kernel issues, and engineering scripts to automate structural workstation-to-server fixes.
+
+#### 🛡️ Defensive Operations & Incident Response
+<p><img src="https://skillicons.dev/icons?i=kali,docker" /></p>
+* Practical integration of threat mitigation frameworks, vulnerability assessments, digital forensics triage, packet-level data carving, and continuous baseline security hardening.
+
+#### 💻 Software Logic & Algorithmic Automation
+<p><img src="https://skillicons.dev/icons?i=py,c,cpp" /></p>
+* Writing performant, structurally sound logic. Utilizing optimized data structures and algorithms to design automation workflows, custom security scripts, and log-parsing utilities.
 
 ---
 
@@ -28,92 +52,49 @@ I am a systems and network security focused engineer. I bridge the gap between e
 <table align="center">
   <tr>
     <td align="left" width="420" valign="top">
-      <h4>🖥️ Systems & Administration</h4>
-      <p><img src="https://skillicons.dev/icons?i=linux,windows,powershell,bash,cmd" /></p>
+      <h4>🖥️ Systems Administration & Support</h4>
+      <p><img src="https://skillicons.dev/icons?i=linux,windows,powershell,bash,raspberrypi" /></p>
       <ul>
-        <li><strong>Enterprise Identity:</strong> Active Directory, GPO structural design, and domain controller provisioning.</li>
-        <li><strong>OS Hardening:</strong> Linux server configurations, PAM authentication, and user access restrictions.</li>
-        <li><strong>Log Diagnostics:</strong> Centralized Syslog management, Windows Event Viewer, and system monitoring.</li>
-        <li><strong>Technical Support:</strong> Advanced Windows/Linux desktop-to-server registry, driver, and triage troubleshooting.</li>
+        <li><strong>Platforms:</strong> Ubuntu, Debian, Windows Server, Windows 10/11</li>
+        <li>Active Directory domain management, GPOs, & local policies</li>
+        <li>System telemetry, Event Viewer parsing, & centralized Syslog</li>
+        <li>OS diagnostics, kernel failure triaging, & remote technical support</li>
+        <li><strong>Services:</strong> DNS, DHCP, SSH, FTP, Fail2Ban deployment</li>
       </ul>
     </td>
     <td align="left" width="420" valign="top">
       <h4>📡 Routing, Switching & Infrastructure</h4>
-      <p><img src="https://skillicons.dev/icons?i=cisco,cloudflare,nginx,apache" /></p>
+      <p><img src="https://skillicons.dev/icons?i=cisco,cloudflare,aws,docker,nginx" /></p>
       <ul>
-        <li><strong>L2/L3 Networking:</strong> Enterprise-grade routing protocols (OSPF, BGP) and architectural switching layouts.</li>
-        <li><strong>Traffic Analysis:</strong> Deep-packet inspection using Wireshark and tcpdump for baseline validation.</li>
-        <li><strong>Edge Security:</strong> Access Control Lists (ACLs), stateful firewalls, and secure NAT/PAT policies.</li>
-        <li><strong>Web Infrastructure:</strong> Deploying, configuring, and hardening Nginx and Apache reverse proxies.</li>
+        <li><strong>Hardware/Routing:</strong> Cisco IOS, L2/L3 structural switching</li>
+        <li>VLAN segmentation, Access Control Lists (ACLs), & NAT/PAT</li>
+        <li><strong>Traffic Analysis:</strong> Wireshark deep packet capture & tcpdump</li>
+        <li><strong>Web Services:</strong> Reverse proxies via Nginx and Apache servers</li>
+        <li><strong>Infrastructure:</strong> Hybrid connections using AWS, Docker, & Cloudflare</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td align="left" width="420" valign="top">
-      <h4>🛡️ Defense, Forensics & Security</h4>
-      <p><img src="https://skillicons.dev/icons?i=kali,elasticsearch,docker" /></p>
+      <h4>🛡️ Threat Defense & Digital Forensics</h4>
+      <p><img src="https://skillicons.dev/icons?i=kali,elasticsearch,debian" /></p>
       <ul>
-        <li><strong>SIEM Telemetry:</strong> Security monitoring and log aggregation exposure via Wazuh and the ELK Stack.</li>
-        <li><strong>Intrusion Tracking:</strong> Setting up signature matching rules using Snort and Suricata network sensors.</li>
-        <li><strong>Vulnerability Management:</strong> Executing comprehensive internal baseline audits using Nessus and OpenVAS.</li>
-        <li><strong>Digital Forensics:</strong> Forensic log investigation, data carving triage, and asset recovery processes.</li>
+        <li><strong>SIEM Ecosystems:</strong> Wazuh deployment & ELK Stack aggregation</li>
+        <li><strong>IDS/IPS Mechanics:</strong> Snort & Suricata rule monitoring</li>
+        <li>Vulnerability assessments using Nessus & OpenVAS engines</li>
+        <li><strong>Forensics:</strong> Triage with Autopsy, Volatility, & FTK Imager</li>
+        <li>Network-level intrusion tracking & live packet-stream analysis</li>
       </ul>
     </td>
     <td align="left" width="420" valign="top">
-      <h4>💻 Programming & Scripting Core</h4>
-      <p><img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,git" /></p>
+      <h4>💻 Programming, Web & Data Logic</h4>
+      <p><img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts,git" /></p>
       <ul>
-        <li><strong>Automation Engines:</strong> Python, Bash, and PowerShell scripts to eliminate manual system overhead.</li>
-        <li><strong>System Logic:</strong> Writing performant code in C, C++, and Java utilizing clean structural architectures.</li>
-        <li><strong>Data Operations:</strong> Advanced regular expressions, structured log parsing, and secure API querying.</li>
-        <li><strong>Source Controls:</strong> Strictly managed code testing workflows and version tracking using Git/GitHub.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎓 Academic Core & Applied Capabilities (BCSIT)
-
-<table align="center">
-  <tr>
-    <td align="left" width="420" valign="top">
-      <h4>🌐 Advanced Network Engineering</h4>
-      <p><strong>Modules:</strong> <code>ART-354</code> · <code>AST-382</code> · <code>ACNW-122</code></p>
-      <ul>
-        <li>Multi-area OSPF routing schemes & enterprise infrastructure architecture.</li>
-        <li>Structural switching design, VLAN segmentation, and network isolation boundaries.</li>
-        <li>Core protocol troubleshooting, packet capture evaluation, and throughput bottlenecks.</li>
-      </ul>
-    </td>
-    <td align="left" width="420" valign="top">
-      <h4>🛡️ Defensive Security Operations</h4>
-      <p><strong>Modules:</strong> <code>EHG-235</code> · <code>DFS-354</code> · <code>ISMS-352</code> · <code>CRPT-351</code></p>
-      <ul>
-        <li>Ethical hacking methodologies, system reconnaissance, and vector identification.</li>
-        <li>Forensic data carving, chronological log timeline creation, and incident triage.</li>
-        <li>Implementation of Information Security Management System (ISMS) risk frameworks.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="420" valign="top">
-      <h4>⚙️ Enterprise Systems Management</h4>
-      <p><strong>Modules:</strong> <code>LNXA-243</code> · <code>WDS-125</code> · <code>CSA-356</code> · <code>ECM-123</code></p>
-      <ul>
-        <li>Linux operating system kernel mechanics, task optimization, and server provisioning.</li>
-        <li>Windows Server deployment lifecycle, credential pools, and domain configuration.</li>
-        <li>Deep system software administration, permissions maps, and security baseline management.</li>
-      </ul>
-    </td>
-    <td align="left" width="420" valign="top">
-      <h4>💻 Logic Design & Software Engineering</h4>
-      <p><strong>Modules:</strong> <code>DSA-233</code> · <code>PHN-127</code> · <code>SAD-375</code> · <code>CPM-113</code></p>
-      <ul>
-        <li>Applying advanced Data Structures & Algorithms to complex system logic.</li>
-        <li>Object-oriented programming patterns and scripting structures using Python and C.</li>
-        <li>System Analysis & Design (SAD) workflows for deploying clean, scalable enterprise SaaS components.</li>
+        <li><strong>Automation:</strong> Python scripting, Bash utilities, & PowerShell tasks</li>
+        <li><strong>Core Systems Logic:</strong> Data Structures & Algorithms via C / C++</li>
+        <li><strong>Web Pipelines:</strong> Secure API management via FastAPI, Node.js, & Flask</li>
+        <li>Log scraping, complex Regular Expressions (Regex), & socket code</li>
+        <li>Version control, git tracking, & secure repository management</li>
       </ul>
     </td>
   </tr>
