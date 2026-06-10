@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Network+Architect;Forensic+Analyst;Ethical+Hacker;System+Security+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Network+Architect;Forensic+Analyst;Ethical+Hacker" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,9 +13,7 @@
 
 ### 🕵️ System Briefing
 
-**Greetings! I am Mr-Bastola.** I'm a cybersecurity enthusiast focused on understanding how networks and systems work — and how they can be broken.
-
-I enjoy building secure lab environments, learning offensive and defensive techniques, and working on system-level security projects and network analysis tools.
+**Greetings! I am Mr-Bastola.** I'm a cybersecurity enthusiast focused on understanding how networks and systems work — and how they can be broken. I enjoy building secure lab environments, learning offensive and defensive techniques, and diving deep into how data flows through networks.
 
 - 🖥️ **Command Center:** `Kali Linux` · `Ubuntu` · `Windows Server` · `Debian`
 - 🔍 **Focus Areas:** `Penetration Testing` · `Network Security` · `Digital Forensics` · `OSINT`
@@ -27,14 +25,18 @@ I enjoy building secure lab environments, learning offensive and defensive techn
 
 ### 🎓 BCSIT Core Academic Skills (Added for Context)
 
-- Computer Networks (TCP/IP, routing basics, Wireshark understanding)
-- C Programming (logic building, memory concepts, low-level programming)
-- Data Structures & Algorithms (problem solving & efficiency thinking)
-- Operating Systems (process, memory, Linux fundamentals)
-- Database Management Systems (SQL, relational design, indexing basics)
-- Software Engineering (SDLC, system design awareness)
-- Cybersecurity Fundamentals (attack/defense concepts, network security basics)
-- Cryptography Basics (hashing, encryption principles)
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Computer_Networks-TCP/IP%20%7C%20Routing%20%7C%20Wireshark-00ff99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C_Programming-Logic%20%7C%20Memory%20%7C%20Low_Level-0099ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving%20%7C%20Efficiency-ffcc00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Systems-Processes%20%7C%20Memory%20%7C%20Linux-ff6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-SQL%20%7C%20Normalization%20%7C%20Indexing-cc00ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Engineering-SDLC%20%7C%20System_Design-00ccff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Fundamentals-Attack%20%7C%20Defense%20%7C%20Networks-ff3333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cryptography-Encryption%20%7C%20Hashing%20%7C%20Security-9933ff?style=for-the-badge" />
+
+</p>
 
 ---
 
@@ -129,5 +131,5 @@ I enjoy building secure lab environments, learning offensive and defensive techn
 </p>
 
 <p align="center">
-  <sub>⚡ Built by <strong>Mr-Bastola</strong> | Cybersecurity • Networking • Systems Engineering</sub>
+  <sub>⚡ Built by <strong>Mr-Bastola</strong></sub>
 </p>
