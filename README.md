@@ -25,27 +25,94 @@
 
 ---
 
-### 🎓 Academic Core & Applied Capabilities (BCSIT)
+### 🎓 Academic Core & Applied Engineering (BCSIT)
 
-#### 📡 Advanced Routing & Switching Technology
-<p><img src="https://skillicons.dev/icons?i=cisco,cloudflare" /></p>
-* Building on structural switching architectures and routing layers. Practical focus on data path tracing, network isolation via VLAN segmentations, and debugging structural connectivity bottlenecks.
-
-#### 🖥️ Windows Server & Linux System Administration
-<p><img src="https://skillicons.dev/icons?i=windows,linux" /></p>
-* Full lifecycle configuration of enterprise operating systems. Managing user privileges, directory structures, environment baseline protections, and internal log tracking.
-
-#### 🛠️ Tech Support & Operating System Diagnostics
-<p><img src="https://skillicons.dev/icons?i=powershell,bash" /></p>
-* Deep triage of deployment faults—debugging Windows/Linux software states, interpreting desktop-to-server connection failures, evaluating error logs, and fixing environment problems.
-
-#### 🛡️ Information Security, Hacking & Forensics
-<p><img src="https://skillicons.dev/icons?i=kali,docker" /></p>
-* Applying target-hardening rulesets, tracking vulnerability mechanics, breaking down packet telemetry, and using forensic tools for digital asset capture and trace recovery.
-
-#### 💻 Software Engineering & Algorithmic Logic
-<p><img src="https://skillicons.dev/icons?i=py,c,cpp" /></p>
-* Designing clean, structural software routines. Using proper data structures and scripting components to automate validation tasks, custom scrapers, and event-log analysis utilities.
+<table align="center">
+  <tr>
+    <td align="center" width="420" valign="top">
+      <h4>📡 Advanced Routing & Switching</h4>
+      <p><img src="https://skillicons.dev/icons?i=cisco" /></p>
+      <p>
+        <code>ART-354</code> · <code>AST-382</code> · <code>CNW-112</code>
+      </p>
+      <hr style="border: 0.5px solid #444;" />
+      <ul align="left">
+        <li>Multi-area routing structures & L2/L3 architectures</li>
+        <li>Network separation via VLAN segmentations</li>
+        <li>Diagnosing communication & packet delivery path drops</li>
+      </ul>
+    </td>
+    <td align="center" width="420" valign="top">
+      <h4>🖥️ Systems Administration & Directory Architecture</h4>
+      <p><img src="https://skillicons.dev/icons?i=windows" /></p>
+      <p>
+        <code>WDS-125</code> · <code>LNXA-243</code> · <code>BCA-116</code>
+      </p>
+      <hr style="border: 0.5px solid #444;" />
+      <ul align="left">
+        <li>Lifecycle tracking of enterprise Server systems</li>
+        <li>Domain controllers, privilege layout, and domain policies</li>
+        <li>System permission controls & local user profiles</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="420" valign="top">
+      <h4>🛠️ Tech Support & OS Diagnostics</h4>
+      <p><img src="https://skillicons.dev/icons?i=powershell" /></p>
+      <p>
+        <code>ECM-123</code> · <code>CSA-356</code>
+      </p>
+      <hr style="border: 0.5px solid #444;" />
+      <ul align="left">
+        <li>Triage of Windows and Linux configuration errors</li>
+        <li>Parsing kernel errors, hardware state problems, & boot faults</li>
+        <li>Debugging network configuration anomalies on endpoints</li>
+      </ul>
+    </td>
+    <td align="center" width="420" valign="top">
+      <h4>🛡️ Defense, Hacking & Security Governance</h4>
+      <p><img src="https://skillicons.dev/icons?i=kali" /></p>
+      <p>
+        <code>EHG-235</code> · <code>SCT-115</code> · <code>ISMS-352</code>
+      </p>
+      <hr style="border: 0.5px solid #444;" />
+      <ul align="left">
+        <li>Ethical hacking methodologies & vulnerability probing</li>
+        <li>Security standard layouts & compliance laws (CSLP-126)</li>
+        <li>Asset tracking, threat mitigation, & system audit logs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="420" valign="top">
+      <h4>🔍 Forensics & Traffic Extraction</h4>
+      <p><img src="https://skillicons.dev/icons?i=debian" /></p>
+      <p>
+        <code>DFS-354</code> · <code>CRPT-351</code>
+      </p>
+      <hr style="border: 0.5px solid #444;" />
+      <ul align="left">
+        <li>Post-incident file recovery & structural data carving</li>
+        <li>Analyzing captured transport layers for indicators of compromise</li>
+        <li>Applying encryption/decryption properties to system layers</li>
+      </ul>
+    </td>
+    <td align="center" width="420" valign="top">
+      <h4>💻 Software Logic & Algorithmic Design</h4>
+      <p><img src="https://skillicons.dev/icons?i=py" /></p>
+      <p>
+        <code>DSA-233</code> · <code>CPM-113</code> · <code>PHN-127</code>
+      </p>
+      <hr style="border: 0.5px solid #444;" />
+      <ul align="left">
+        <li>Writing clean, structured script paths using Python & C</li>
+        <li>Applying efficient Data Structures for parsing mechanics</li>
+        <li>Building stable logic patterns for data-driven utilities</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,31 +121,31 @@
 <table align="center">
   <tr>
     <td align="center" width="420" valign="top">
-      <h4>⚔️ Red Team & Pentesting</h4>
-      <p><img src="https://skillicons.dev/icons?i=kali,linux,bash" /></p>
+      <h4>⚔️ Offensive Security & Pentesting</h4>
+      <p><img src="https://skillicons.dev/icons?i=linux" /></p>
       <p>
         <code>Nmap</code> · <code>Metasploit</code> · <code>BurpSuite</code> · <code>SQLmap</code> · <code>Nikto</code> · <code>Gobuster</code> · <code>Hydra</code> · <code>Hashcat</code> · <code>John the Ripper</code> · <code>Aircrack-ng</code> · <code>Netcat</code> · <code>Exploit-DB</code> · <code>OWASP ZAP</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
-      <h4>🛡️ Blue Team, Systems Admin & Support</h4>
-      <p><img src="https://skillicons.dev/icons?i=linux,windows,powershell,docker" /></p>
+      <h4>🛡️ Defensive Hardening & Support Operations</h4>
+      <p><img src="https://skillicons.dev/icons?i=docker" /></p>
       <p>
-        <code>Fail2Ban</code> · <code>UFW</code> · <code>iptables</code> · <code>Snort</code> · <code>Suricata</code> · <code>YARA Rules</code> · <code>Active Directory</code> · <code>Group Policy</code> · <code>OS Diagnostics</code> · <code>Desktop/Server Tech Support</code>
+        <code>Fail2Ban</code> · <code>UFW</code> · <code>iptables</code> · <code>Snort</code> · <code>Suricata</code> · <code>YARA Rules</code> · <code>ClamAV</code> · <code>Lynis</code> · <code>OSSEC</code> · <code>Active Directory / GPO</code> · <code>OS Diagnostics / Tech Support</code>
       </p>
     </td>
   </tr>
   <tr>
     <td align="center" width="420" valign="top">
-      <h4>📡 Networking, Routing & Switching</h4>
-      <p><img src="https://skillicons.dev/icons?i=cisco,aws,cloudflare" /></p>
+      <h4>📡 Core Networking & Telemetry</h4>
+      <p><img src="https://skillicons.dev/icons?i=cloudflare" /></p>
       <p>
-        <code>TCP/IP</code> · <code>DNS</code> · <code>DHCP</code> · <code>HTTP/HTTPS</code> · <code>SSH</code> · <code>FTP</code> · <code>VLAN Segmentation</code> · <code>Advanced Routing</code> · <code>Advanced Switching</code> · <code>Wireshark</code> · <code>Tcpdump</code> · <code>Cisco IOS</code> · <code>NAT/PAT</code>
+        <code>TCP/IP</code> · <code>DNS</code> · <code>DHCP</code> · <code>HTTP/HTTPS</code> · <code>SSH</code> · <code>FTP</code> · <code>VLANs</code> · <code>OSPF / BGP</code> · <code>Wireshark</code> · <code>Tcpdump</code> · <code>Cisco IOS</code> · <code>Ping & Traceroute</code> · <code>NAT/PAT</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
-      <h4>🔵 SOC, Monitoring & Storage</h4>
-      <p><img src="https://skillicons.dev/icons?i=elasticsearch,grafana,mysql" /></p>
+      <h4>🔵 SOC Operations, Logging & Databases</h4>
+      <p><img src="https://skillicons.dev/icons?i=elasticsearch" /></p>
       <p>
         <code>Splunk</code> · <code>ELK Stack</code> · <code>Wazuh</code> · <code>Nessus</code> · <code>OpenVAS</code> · <code>TheHive</code> · <code>MITRE ATT&CK</code> · <code>Syslog / Event Viewer</code> · <code>MySQL</code> · <code>SQLite</code>
       </p>
@@ -86,17 +153,17 @@
   </tr>
   <tr>
     <td align="center" width="420" valign="top">
-      <h4>🔍 Digital Forensics</h4>
-      <p><img src="https://skillicons.dev/icons?i=debian,py,raspberrypi" /></p>
+      <h4>🔍 System Analysis & Digital Forensics</h4>
+      <p><img src="https://skillicons.dev/icons?i=raspberrypi" /></p>
       <p>
-        <code>Autopsy</code> · <code>Volatility</code> · <code>FTK Imager</code> · <code>Binwalk</code> · <code>Ghidra</code> · <code>CyberChef</code> · <code>ExifTool</code> · <code>Strings</code> · <code>File Carving</code> · <code>Hardware Labs (Raspberry Pi)</code>
+        <code>Autopsy</code> · <code>Volatility</code> · <code>FTK Imager</code> · <code>Binwalk</code> · <code>Ghidra</code> · <code>CyberChef</code> · <code>ExifTool</code> · <code>Strings</code> · <code>File Carving</code> · <code>Hardware Lab Configurations</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
-      <h4>💻 Programming, Scripting & Web</h4>
-      <p><img src="https://skillicons.dev/icons?i=py,c,cpp,cs,html,css,flask,git" /></p>
+      <h4>💻 Programming, Automation & Pipelines</h4>
+      <p><img src="https://skillicons.dev/icons?i=git" /></p>
       <p>
-        <code>Python (Primary)</code> · <code>Bash Scripting</code> · <code>PowerShell</code> · <code>C / C++</code> · <code>C#</code> · <code>Flask Basics</code> · <code>HTML5 / CSS3</code> · <code>Scapy</code> · <code>Socket Programming</code> · <code>Regex</code> · <code>Git / GitHub</code>
+        <code>Python (Primary)</code> · <code>Bash Scripting</code> · <code>PowerShell</code> · <code>C Programming</code> · <code>Flask Basics</code> · <code>HTML5 / CSS3</code> · <code>Scapy Engine</code> · <code>Requests Library</code> · <code>Socket Programming</code> · <code>Regex</code> · <code>Git / GitHub</code>
       </p>
     </td>
   </tr>
