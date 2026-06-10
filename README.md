@@ -1,186 +1,150 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=MR-BASTOLA;Security+Engineer;Network+%26+Systems+Analyst;SOC+%7C+Pentesting+%7C+Forensics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Network+Architect;Forensic+Analyst;Ethical+Hacker" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Offensive-Security-00FF00?style=for-the-badge&logo=kalilinux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Network-Analysis-0055cc?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOC-Operations-7733bb?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital-Forensics-cc2222?style=for-the-badge&logo=autopsy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Researcher-00FF00?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network-Architect-0055cc?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forensic-Analyst-7733bb?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical-Hacker-cc2222?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
 
-### 🕵️ System Briefing
+## 🕵️ System Briefing
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,linux,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,raspberrypi" />
 </p>
 
-**Security-focused systems thinker.**  
-I analyze how systems behave under real conditions — then secure, automate, and improve them.
+**Greetings! I am Mr-Bastola.**  
+Cybersecurity-focused systems thinker working across networks, systems, and security layers.
 
-- 🖥️ Command Center → Kali · Ubuntu · Windows Server · Debian · Raspberry Pi  
-- 🔍 Focus → Security Analysis · Network Defense · Forensics · OSINT  
-- 🧪 Lab Environment → VirtualBox · Proxmox · AWS · pfSense  
-- 🛡️ Security → Firewalls · IDS/IPS · Logging · Hardening  
-- 🎯 Objective → Detection · Response · Analysis · System Security  
+> I understand systems, networks, and security — and I build, analyze, and automate them.
+
+- 🖥️ Command Center → Kali Linux · Ubuntu · Windows Server · Debian · Raspberry Pi  
+- 🔍 Focus Areas → Penetration Testing · Network Security · Digital Forensics · OSINT  
+- 🧪 Home Lab → VirtualBox · Proxmox · AWS Free Tier · pfSense · Cisco IOS  
+- 🛡️ Defense → Firewalls · IDS/IPS · SIEM · Log Monitoring  
+- 🎯 Goals → Threat Detection · Incident Response · Packet Analysis  
 
 ---
 
-### 🎓 Academic Core & System Understanding (BCSIT)
+## 🎓 Academic Core & Systems Understanding
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cisco,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker" />
 </p>
 
-#### ⚡ Networking & Systems
+### 📡 Networking & Systems
+- Routing, switching, VLAN segmentation
+- Packet flow analysis & troubleshooting
+- TCP/IP architecture understanding
+
+### 🖥️ Operating Systems & Administration
+- Process & memory lifecycle understanding
+- Linux/Windows system management
+- User permissions & domain structure
+
+### 🛠️ System Diagnostics
+- Kernel & boot issue debugging
+- Network configuration troubleshooting
+- Hardware & endpoint issue resolution
+
+### 🛡️ Security & Governance
+- Vulnerability assessment mindset
+- Security policies & compliance basics
+- System audit & logging fundamentals
+
+---
+
+## 🛠️ Technical Knowledge Base
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,linux,docker" />
   <img src="https://skillicons.dev/icons?i=cisco,cloudflare,nginx" />
 </p>
 
-- Routing, switching & network flow analysis  
-- VLANs, NAT, subnetting & protocol behavior  
-- DNS, DHCP, HTTP/S architecture understanding  
+### ⚔️ Offensive Security
+Nmap · Metasploit · Burp Suite · SQLmap · Gobuster · Hydra · Hashcat · Netcat · Aircrack-ng
+
+### 🛡️ Defensive Security
+Snort · Suricata · Wazuh · ELK Stack · Splunk · Fail2Ban · UFW · iptables · MITRE ATT&CK
+
+### 📡 Networking Core
+TCP/IP · DNS · DHCP · VLAN · NAT · OSPF · BGP · Wireshark · Tcpdump · Cisco IOS · pfSense
+
+### 🔍 Forensics & OSINT
+Autopsy · Volatility · Ghidra · CyberChef · Binwalk · ExifTool · Shodan · Maltego · theHarvester
 
 ---
 
-#### 🖥️ Operating Systems & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,docker" />
-</p>
-
-- Process & memory management  
-- Linux internals & system behavior  
-- Virtualization & container fundamentals  
-
----
-
-#### 🛠️ System Debugging & Engineering Thinking
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,powershell,git" />
-</p>
-
-- System troubleshooting & log analysis  
-- Boot, kernel & configuration debugging  
-- Automation through scripting  
-
----
-
-#### 🛡️ Security Fundamentals
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,cloudflare,aws" />
-</p>
-
-- Vulnerability concepts & ethical hacking basics  
-- Security policies & system hardening  
-- Audit logs & threat mitigation  
-
----
-
-### ⚙️ Core Security Competencies
+## 💻 Programming & Automation
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,bash,powershell,git" />
 </p>
 
-#### 🔴 Offensive Security
-Nmap · Metasploit · Burp Suite · SQLmap · Gobuster · Hydra · Hashcat · Aircrack-ng · Netcat  
+### Core Languages
+Python · JavaScript · C/C++ · Bash · PowerShell
+
+### Applied Skills
+- Security automation scripts
+- API & backend basics
+- System scripting & task automation
+- Regex & socket programming
 
 ---
 
-#### 🔵 Defensive Security / SOC
-Wazuh · Snort · Suricata · ELK Stack · Splunk · UFW · iptables · Fail2Ban · MITRE ATT&CK · YARA  
-
----
-
-#### 📡 Networking Core
-TCP/IP · DNS · DHCP · HTTP/S · VLAN · NAT · OSPF · BGP · Wireshark · Tcpdump · Cisco IOS  
-
----
-
-#### 🔍 Forensics & OSINT
-Volatility · Autopsy · Ghidra · CyberChef · Binwalk · ExifTool · Shodan · theHarvester · Maltego  
-
----
-
-### 💻 Programming & Automation
+## 🏗️ Infrastructure & Dev Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,js,bash,git" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,git" />
 </p>
 
-- Python → Security tools, automation, SOC scripts  
-- Bash → Linux automation & system control  
-- JavaScript → APIs & web logic  
-- C/C++ → System logic & DSA  
-- PowerShell → Windows & AD automation  
-
----
-
-### 🏗️ Infrastructure & Dev Environment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,nginx,git" />
-</p>
-
-- OS → Kali · Ubuntu · Debian · Windows Server  
+- OS → Linux · Windows Server · Debian  
 - Cloud → AWS · Azure · Cloudflare  
 - Containers → Docker · Vagrant  
 - Web → Nginx · Apache · REST APIs  
-- DevOps → Git · GitHub Actions  
+- DevOps → Git · GitHub  
 
 ---
 
-### 🔍 Digital Forensics & Analysis
+## 🧪 Home Lab Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=debian,ubuntu,vscode" />
-</p>
-
-- Memory & disk analysis (Volatility, Autopsy)  
-- Malware inspection (Ghidra, Binwalk)  
-- Packet reconstruction (Wireshark, Tcpdump)  
-- Evidence extraction & system tracing  
-
----
-
-### 🧪 Home Lab Environment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=proxmox,virtualbox,linux" />
+  <img src="https://skillicons.dev/icons?i=proxmox,virtualbox,kali" />
 </p>
 
 - Hypervisor → Proxmox · VirtualBox  
-- Network Simulation → pfSense · Cisco IOS  
-- Attack Lab → Kali Linux  
+- Network Lab → pfSense · GNS3  
+- Attack Systems → Kali Linux  
 - Monitoring → Wazuh · ELK Stack  
-- Cloud Sandbox → AWS Free Tier  
+- Targets → DVWA · VulnHub · TryHackMe · HackTheBox  
 
 ---
 
-### 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=777" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mr-Bastola/Mr-Bastola/output/github-snake.svg?v=777" />
 </p>
 
 ---
 
-### 📬 Contact
+## 📬 Establish Connection
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,gmail,github" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://tryhackme.com/p/YOUR_THM"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:your-email@example.com">Email</a> ·
-  <a href="https://tryhackme.com/p/YOUR_THM">TryHackMe</a>
+  <img src="https://komarev.com/ghpvc/?username=Mr-Bastola&label=VISITS&color=00ff00&style=flat-square" />
 </p>
 
----
-
 <p align="center">
-  <sub>⚡ Built by Mr-Bastola · Systems analyzed · Security improved · Knowledge applied</sub>
+  <sub>⚡ Built by <strong>Mr-Bastola</strong> · Security · Systems · Analysis</sub>
 </p>
