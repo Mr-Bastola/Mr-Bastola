@@ -142,7 +142,13 @@
         <img src="https://skillicons.dev/icons?i=kali,ubuntu,debian,windows" height="40" />
       </p>
       <p>
+        <code>Kali Linux</code> · <code>Ubuntu</code> · <code>Debian</code> · <code>Windows</code>
+      </p>
+      <p>
         <img src="https://skillicons.dev/icons?i=fedora,redhat,raspberrypi,android" height="40" />
+      </p>
+      <p>
+        <code>Fedora</code> · <code>RedHat</code> · <code>Raspberry Pi</code> · <code>Android</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
@@ -151,7 +157,13 @@
         <img src="https://skillicons.dev/icons?i=py,c,bash,powershell" height="40" />
       </p>
       <p>
+        <code>Python</code> · <code>C</code> · <code>Bash</code> · <code>PowerShell</code>
+      </p>
+      <p>
         <img src="https://skillicons.dev/icons?i=js,html,css,mysql" height="40" />
+      </p>
+      <p>
+        <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>MySQL</code>
       </p>
     </td>
   </tr>
@@ -186,9 +198,9 @@
         <img src="https://skillicons.dev/icons?i=nginx,cloudflare,grafana,prometheus" height="40" />
       </p>
       <p>
-        <code>Cisco IOS</code> · <code>Wireshark</code> · <code>pfSense</code> · <code>TCP/IP</code><br>
-        <code>DNS</code> · <code>DHCP</code> · <code>SSH</code> · <code>VLANs</code><br>
-        <code>OSPF/BGP</code> · <code>Tcpdump</code> · <code>NAT/PAT</code>
+        <code>Cisco IOS</code> · <code>pfSense</code> · <code>TCP/IP</code> · <code>DNS</code><br>
+        <code>DHCP</code> · <code>SSH</code> · <code>VLANs</code> · <code>OSPF/BGP</code><br>
+        <code>Tcpdump</code> · <code>NAT/PAT</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
@@ -207,13 +219,16 @@
     <td align="center" width="420" valign="top">
       <h4>☁️ Virtualization & Cloud</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" height="40" />
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=gcp,ansible,terraform,jenkins" height="40" />
+        <img src="https://skillicons.dev/icons?i=docker,aws,azure,terraform" height="40" />
       </p>
       <p>
         <code>VirtualBox</code> · <code>VMware</code> · <code>Proxmox</code> · <code>Vagrant</code>
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=gcp,ansible,jenkins,linux" height="40" />
+      </p>
+      <p>
+        <code>GCP</code> · <code>Ansible</code> · <code>Jenkins</code> · <code>Linux Containers</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
@@ -232,7 +247,16 @@
     <td align="center" colspan="2" valign="top">
       <h4>🗄️ Databases & Frameworks</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,react,git,github" height="40" />
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,react" height="40" />
+      </p>
+      <p align="center">
+        <code>MySQL</code> · <code>SQLite</code> · <code>Flask</code> · <code>React</code>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,js,py" height="40" />
+      </p>
+      <p align="center">
+        <code>Git</code> · <code>GitHub</code> · <code>JavaScript</code> · <code>Python</code>
       </p>
     </td>
   </tr>
