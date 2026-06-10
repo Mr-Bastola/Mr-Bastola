@@ -30,8 +30,8 @@
 <table align="center">
   <tr>
     <td align="center" width="420" valign="top">
-      <h4>📡 Advanced Routing & Switching</h4>
-      <p><img src="https://skillicons.dev/icons?i=cisco,cloudflare,aws" /></p>
+      <h4>📡 Advanced Routing, Switching & Networks</h4>
+      <p><img src="https://skillicons.dev/icons?i=cisco,cloudflare,nginx,sublime" /></p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
         <li>Multi-area routing structures & L2/L3 architectures</li>
@@ -41,7 +41,7 @@
     </td>
     <td align="center" width="420" valign="top">
       <h4>🖥️ Systems Administration & Domain Layout</h4>
-      <p><img src="https://skillicons.dev/icons?i=windows,linux,fedora" /></p>
+      <p><img src="https://skillicons.dev/icons?i=windows,linux,fedora,redhat" /></p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
         <li>Lifecycle tracking of enterprise Server systems</li>
@@ -53,7 +53,7 @@
   <tr>
     <td align="center" width="420" valign="top">
       <h4>🛠️ Tech Support & OS Diagnostics</h4>
-      <p><img src="https://skillicons.dev/icons?i=powershell,bash,cmd" /></p>
+      <p><img src="https://skillicons.dev/icons?i=powershell,bash,cmd,raspberrypi" /></p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
         <li>Triage of Windows and Linux configuration errors</li>
@@ -63,7 +63,7 @@
     </td>
     <td align="center" width="420" valign="top">
       <h4>🛡️ Threat Defense & Security Governance</h4>
-      <p><img src="https://skillicons.dev/icons?i=kali,docker,gcp" /></p>
+      <p><img src="https://skillicons.dev/icons?i=kali,postman,react,html" /></p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
         <li>Ethical hacking methodologies & vulnerability probing</li>
@@ -75,7 +75,7 @@
   <tr>
     <td align="center" width="420" valign="top">
       <h4>🔍 Forensics & Traffic Extraction</h4>
-      <p><img src="https://skillicons.dev/icons?i=debian,ubuntu,redhat" /></p>
+      <p><img src="https://skillicons.dev/icons?i=debian,ubuntu,android,visualstudio" /></p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
         <li>Post-incident file recovery & structural data carving</li>
@@ -85,7 +85,7 @@
     </td>
     <td align="center" width="420" valign="top">
       <h4>💻 Software Logic & Algorithmic Design</h4>
-      <p><img src="https://skillicons.dev/icons?i=py,c,git" /></p>
+      <p><img src="https://skillicons.dev/icons?i=py,c,js,git" /></p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
         <li>Writing clean, structured script paths using Python & C</li>
@@ -103,15 +103,15 @@
 <table align="center">
   <tr>
     <td align="center" width="420" valign="top">
-      <h4>⚔️ Offensive Security & Pentesting</h4>
-      <p><img src="https://skillicons.dev/icons?i=kali,linux,apple" /></p>
+      <h4>⚔️ Offensive Security & Pentesting Tools</h4>
+      <p><img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell" /></p>
       <p>
         <code>Nmap</code> · <code>Metasploit</code> · <code>BurpSuite</code> · <code>SQLmap</code> · <code>Nikto</code> · <code>Gobuster</code> · <code>Hydra</code> · <code>Hashcat</code> · <code>John the Ripper</code> · <code>Aircrack-ng</code> · <code>Netcat</code> · <code>Exploit-DB</code> · <code>OWASP ZAP</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
       <h4>🛡️ Defensive Hardening & Support Operations</h4>
-      <p><img src="https://skillicons.dev/icons?i=windows,docker,raspberrypi" /></p>
+      <p><img src="https://skillicons.dev/icons?i=windows,cmd,raspberrypi,react" /></p>
       <p>
         <code>Fail2Ban</code> · <code>UFW</code> · <code>iptables</code> · <code>Snort</code> · <code>Suricata</code> · <code>YARA Rules</code> · <code>ClamAV</code> · <code>Lynis</code> · <code>OSSEC</code> · <code>Active Directory / GPO</code> · <code>OS Diagnostics / Tech Support</code>
       </p>
@@ -119,15 +119,15 @@
   </tr>
   <tr>
     <td align="center" width="420" valign="top">
-      <h4>📡 Core Networking & Telemetry</h4>
-      <p><img src="https://skillicons.dev/icons?i=cisco,cloudflare,nginx" /></p>
+      <h4>📡 Core Networking & Infrastructure</h4>
+      <p><img src="https://skillicons.dev/icons?i=cisco,cloudflare,nginx,html" /></p>
       <p>
         <code>TCP/IP</code> · <code>DNS</code> · <code>DHCP</code> · <code>HTTP/HTTPS</code> · <code>SSH</code> · <code>FTP</code> · <code>VLANs</code> · <code>OSPF / BGP</code> · <code>Wireshark</code> · <code>Tcpdump</code> · <code>Cisco IOS</code> · <code>Ping & Traceroute</code> · <code>NAT/PAT</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
       <h4>🔵 SOC Operations, Logging & Databases</h4>
-      <p><img src="https://skillicons.dev/icons?i=elasticsearch,grafana,mysql" /></p>
+      <p><img src="https://skillicons.dev/icons?i=elasticsearch,grafana,mysql,sqlite" /></p>
       <p>
         <code>Splunk</code> · <code>ELK Stack</code> · <code>Wazuh</code> · <code>Nessus</code> · <code>OpenVAS</code> · <code>TheHive</code> · <code>MITRE ATT&CK</code> · <code>Syslog / Event Viewer</code> · <code>MySQL</code> · <code>SQLite</code>
       </p>
@@ -135,17 +135,26 @@
   </tr>
   <tr>
     <td align="center" width="420" valign="top">
-      <h4>🔍 System Analysis & Digital Forensics</h4>
-      <p><img src="https://skillicons.dev/icons?i=debian,ubuntu,vscode" /></p>
+      <h4>🔍 System Analysis & Digital Forensics Tools</h4>
+      <p><img src="https://skillicons.dev/icons?i=debian,ubuntu,android,vscode" /></p>
       <p>
         <code>Autopsy</code> · <code>Volatility</code> · <code>FTK Imager</code> · <code>Binwalk</code> · <code>Ghidra</code> · <code>CyberChef</code> · <code>ExifTool</code> · <code>Strings</code> · <code>File Carving</code> · <code>Hardware Lab Configurations</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
       <h4>💻 Programming, Automation & Pipelines</h4>
-      <p><img src="https://skillicons.dev/icons?i=py,c,git" /></p>
+      <p><img src="https://skillicons.dev/icons?i=py,c,js,git" /></p>
       <p>
         <code>Python (Primary)</code> · <code>Bash Scripting</code> · <code>PowerShell</code> · <code>C Programming</code> · <code>Flask Basics</code> · <code>HTML5 / CSS3</code> · <code>Scapy Engine</code> · <code>Requests Library</code> · <code>Socket Programming</code> · <code>Regex</code> · <code>Git / GitHub</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <h4>☁️ Virtualization & Cloud Environments</h4>
+      <p align="center"><img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp" /></p>
+      <p align="center">
+        <code>VirtualBox Hypervisor</code> · <code>Proxmox VE</code> · <code>VMware Workstation</code> · <code>Docker Containers</code> · <code>AWS Environments</code> · <code>Azure Infrastructure</code> · <code>Vagrant Automation</code>
       </p>
     </td>
   </tr>
@@ -167,9 +176,9 @@
 ### 📬 Establish Connection
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://tryhackme.com/p/YOUR_THM"><img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>&nbsp;
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
+  <a href="https://tryhackme.com/p/YOUR_THM"><img src="https://skillicons.dev/icons?i=linux" /></a>&nbsp;
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 <p align="center">
