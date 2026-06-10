@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Network+Architect;Forensic+Analyst;Ethical+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Network+Architect;System+Administrator;Ethical+Hacker" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Researcher-00FF00?style=for-the-badge&logo=target&logoColor=black" />
   <img src="https://img.shields.io/badge/Network-Architect-0055cc?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forensic-Analyst-7733bb?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Administrator-ff9900?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethical-Hacker-cc2222?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
@@ -27,36 +27,22 @@
 
 ### 🔗 Social Links
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Mr-Bastola" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
   </a>
-</p>
-
----
-
-### 🌐 Network & System Architecture
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,debian,ubuntu" height="40" />
-  <img src="https://skillicons.dev/icons?i=bash,powershell,raspberrypi,arduino" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" height="40" />
-  <img src="https://skillicons.dev/icons?i=nginx,cloudflare,ansible,terraform" height="40" />
 </p>
 
 ---
@@ -68,10 +54,7 @@
     <td align="center" width="420" valign="top">
       <h4>📡 Advanced Routing, Switching & Networks</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=cloudflare" height="40" />
-        <img src="https://skillicons.dev/icons?i=nginx" height="40" />
-        <img src="https://skillicons.dev/icons?i=grafana" height="40" />
-        <img src="https://skillicons.dev/icons?i=prometheus" height="40" />
+        <img src="https://skillicons.dev/icons?i=cloudflare,nginx,grafana,prometheus" height="40" />
       </p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
@@ -83,10 +66,7 @@
     <td align="center" width="420" valign="top">
       <h4>🖥️ Systems Administration & Domain Layout</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=windows" height="40" />
-        <img src="https://skillicons.dev/icons?i=linux" height="40" />
-        <img src="https://skillicons.dev/icons?i=ubuntu" height="40" />
-        <img src="https://skillicons.dev/icons?i=redhat" height="40" />
+        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat" height="40" />
       </p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
@@ -100,10 +80,7 @@
     <td align="center" width="420" valign="top">
       <h4>🛠️ Tech Support & OS Diagnostics</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=powershell" height="40" />
-        <img src="https://skillicons.dev/icons?i=bash" height="40" />
-        <img src="https://skillicons.dev/icons?i=debian" height="40" />
-        <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" />
+        <img src="https://skillicons.dev/icons?i=powershell,bash,debian,raspberrypi" height="40" />
       </p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
@@ -115,10 +92,7 @@
     <td align="center" width="420" valign="top">
       <h4>🛡️ Threat Defense & Security Governance</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=kali" height="40" />
-        <img src="https://skillicons.dev/icons?i=postman" height="40" />
-        <img src="https://skillicons.dev/icons?i=github" height="40" />
-        <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+        <img src="https://skillicons.dev/icons?i=kali,postman,github,vscode" height="40" />
       </p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
@@ -132,10 +106,7 @@
     <td align="center" width="420" valign="top">
       <h4>🔍 Forensics & Traffic Extraction</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=debian" height="40" />
-        <img src="https://skillicons.dev/icons?i=ubuntu" height="40" />
-        <img src="https://skillicons.dev/icons?i=android" height="40" />
-        <img src="https://skillicons.dev/icons?i=visualstudio" height="40" />
+        <img src="https://skillicons.dev/icons?i=debian,ubuntu,android,visualstudio" height="40" />
       </p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
@@ -147,10 +118,7 @@
     <td align="center" width="420" valign="top">
       <h4>💻 Software Logic & Algorithmic Design</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=py" height="40" />
-        <img src="https://skillicons.dev/icons?i=c" height="40" />
-        <img src="https://skillicons.dev/icons?i=js" height="40" />
-        <img src="https://skillicons.dev/icons?i=git" height="40" />
+        <img src="https://skillicons.dev/icons?i=py,c,js,git" height="40" />
       </p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
@@ -171,31 +139,19 @@
     <td align="center" width="420" valign="top">
       <h4>🖥️ Operating Systems</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=kali" height="45" />
-        <img src="https://skillicons.dev/icons?i=ubuntu" height="45" />
-        <img src="https://skillicons.dev/icons?i=debian" height="45" />
-        <img src="https://skillicons.dev/icons?i=windows" height="45" />
+        <img src="https://skillicons.dev/icons?i=kali,ubuntu,debian,windows" height="40" />
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=fedora" height="45" />
-        <img src="https://skillicons.dev/icons?i=redhat" height="45" />
-        <img src="https://skillicons.dev/icons?i=raspberrypi" height="45" />
-        <img src="https://skillicons.dev/icons?i=android" height="45" />
+        <img src="https://skillicons.dev/icons?i=fedora,redhat,raspberrypi,android" height="40" />
       </p>
     </td>
     <td align="center" width="420" valign="top">
       <h4>💻 Programming Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=py" height="45" />
-        <img src="https://skillicons.dev/icons?i=c" height="45" />
-        <img src="https://skillicons.dev/icons?i=bash" height="45" />
-        <img src="https://skillicons.dev/icons?i=powershell" height="45" />
+        <img src="https://skillicons.dev/icons?i=py,c,bash,powershell" height="40" />
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=js" height="45" />
-        <img src="https://skillicons.dev/icons?i=html" height="45" />
-        <img src="https://skillicons.dev/icons?i=css" height="45" />
-        <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,mysql" height="40" />
       </p>
     </td>
   </tr>
@@ -203,83 +159,72 @@
     <td align="center" width="420" valign="top">
       <h4>⚔️ Offensive Security Tools</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=kali" height="45" />
-        <img src="https://skillicons.dev/icons?i=linux" height="45" />
-        <img src="https://skillicons.dev/icons?i=postman" height="45" />
-        <img src="https://skillicons.dev/icons?i=python" height="45" />
+        <img src="https://skillicons.dev/icons?i=kali,linux,postman,py" height="40" />
       </p>
       <p>
-        <code>Metasploit</code> · <code>Burp Suite</code> · <code>Nmap</code> · <code>SQLmap</code> · <code>Nikto</code> · <code>Gobuster</code> · <code>Hydra</code> · <code>Hashcat</code> · <code>John the Ripper</code> · <code>Aircrack-ng</code> · <code>Netcat</code> · <code>OWASP ZAP</code>
+        <code>Metasploit</code> · <code>Burp Suite</code> · <code>Nmap</code> · <code>SQLmap</code><br>
+        <code>Nikto</code> · <code>Gobuster</code> · <code>Hydra</code> · <code>Hashcat</code><br>
+        <code>John the Ripper</code> · <code>Aircrack-ng</code> · <code>Netcat</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
       <h4>🛡️ Defensive & Blue Team Tools</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=linux" height="45" />
-        <img src="https://skillicons.dev/icons?i=grafana" height="45" />
-        <img src="https://skillicons.dev/icons?i=prometheus" height="45" />
-        <img src="https://skillicons.dev/icons?i=elasticsearch" height="45" />
+        <img src="https://skillicons.dev/icons?i=linux,grafana,prometheus,elasticsearch" height="40" />
       </p>
       <p>
-        <code>Splunk</code> · <code>Wazuh</code> · <code>Snort</code> · <code>Suricata</code> · <code>Fail2Ban</code> · <code>UFW</code> · <code>iptables</code> · <code>YARA</code> · <code>ClamAV</code> · <code>Lynis</code> · <code>OSSEC</code> · <code>Active Directory</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="420" valign="top">
-      <h4>📡 Networking & Infrastructure Tools</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nginx" height="45" />
-        <img src="https://skillicons.dev/icons?i=cloudflare" height="45" />
-        <img src="https://skillicons.dev/icons?i=grafana" height="45" />
-        <img src="https://skillicons.dev/icons?i=prometheus" height="45" />
-      </p>
-      <p>
-        <code>Cisco IOS</code> · <code>Wireshark</code> · <code>pfSense</code> · <code>TCP/IP</code> · <code>DNS</code> · <code>DHCP</code> · <code>SSH</code> · <code>VLANs</code> · <code>OSPF/BGP</code> · <code>Tcpdump</code> · <code>NAT/PAT</code>
-      </p>
-    </td>
-    <td align="center" width="420" valign="top">
-      <h4>🔍 Digital Forensics Tools</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=linux" height="45" />
-        <img src="https://skillicons.dev/icons?i=python" height="45" />
-        <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-        <img src="https://skillicons.dev/icons?i=github" height="45" />
-      </p>
-      <p>
-        <code>Autopsy</code> · <code>Volatility</code> · <code>FTK Imager</code> · <code>Ghidra</code> · <code>Binwalk</code> · <code>CyberChef</code> · <code>ExifTool</code> · <code>Strings</code> · <code>File Carving</code> · <code>Memory Analysis</code>
+        <code>Splunk</code> · <code>Wazuh</code> · <code>Snort</code> · <code>Suricata</code><br>
+        <code>Fail2Ban</code> · <code>UFW</code> · <code>iptables</code> · <code>YARA</code><br>
+        <code>ClamAV</code> · <code>Lynis</code> · <code>OSSEC</code> · <code>Active Directory</code>
       </p>
     </td>
   </tr>
   <tr>
     <td align="center" width="420" valign="top">
-      <h4>☁️ Virtualization & Cloud Technologies</h4>
+      <h4>📡 Networking & Infrastructure</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=docker" height="45" />
-        <img src="https://skillicons.dev/icons?i=kubernetes" height="45" />
-        <img src="https://skillicons.dev/icons?i=aws" height="45" />
-        <img src="https://skillicons.dev/icons?i=azure" height="45" />
+        <img src="https://skillicons.dev/icons?i=nginx,cloudflare,grafana,prometheus" height="40" />
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=gcp" height="45" />
-        <img src="https://skillicons.dev/icons?i=ansible" height="45" />
-        <img src="https://skillicons.dev/icons?i=terraform" height="45" />
-        <img src="https://skillicons.dev/icons?i=jenkins" height="45" />
-      </p>
-      <p>
-        <code>VirtualBox</code> · <code>VMware</code> · <code>Proxmox</code> · <code>Vagrant</code> · <code>Hyper-V</code>
+        <code>Cisco IOS</code> · <code>Wireshark</code> · <code>pfSense</code> · <code>TCP/IP</code><br>
+        <code>DNS</code> · <code>DHCP</code> · <code>SSH</code> · <code>VLANs</code><br>
+        <code>OSPF/BGP</code> · <code>Tcpdump</code> · <code>NAT/PAT</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
-      <h4>🔵 SOC, SIEM & Monitoring Tools</h4>
+      <h4>🔍 Digital Forensics</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=elasticsearch" height="45" />
-        <img src="https://skillicons.dev/icons?i=grafana" height="45" />
-        <img src="https://skillicons.dev/icons?i=prometheus" height="45" />
-        <img src="https://skillicons.dev/icons?i=linux" height="45" />
+        <img src="https://skillicons.dev/icons?i=linux,py,vscode,github" height="40" />
       </p>
       <p>
-        <code>Splunk</code> · <code>ELK Stack</code> · <code>Wazuh</code> · <code>Nessus</code> · <code>OpenVAS</code> · <code>TheHive</code> · <code>MITRE ATT&CK</code> · <code>Syslog</code> · <code>Event Viewer</code>
+        <code>Autopsy</code> · <code>Volatility</code> · <code>FTK Imager</code> · <code>Ghidra</code><br>
+        <code>Binwalk</code> · <code>CyberChef</code> · <code>ExifTool</code> · <code>Strings</code><br>
+        <code>File Carving</code> · <code>Memory Analysis</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="420" valign="top">
+      <h4>☁️ Virtualization & Cloud</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" height="40" />
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=gcp,ansible,terraform,jenkins" height="40" />
+      </p>
+      <p>
+        <code>VirtualBox</code> · <code>VMware</code> · <code>Proxmox</code> · <code>Vagrant</code>
+      </p>
+    </td>
+    <td align="center" width="420" valign="top">
+      <h4>🔵 SOC & SIEM</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,linux" height="40" />
+      </p>
+      <p>
+        <code>Splunk</code> · <code>ELK Stack</code> · <code>Wazuh</code> · <code>Nessus</code><br>
+        <code>OpenVAS</code> · <code>TheHive</code> · <code>MITRE ATT&CK</code><br>
+        <code>Syslog</code> · <code>Event Viewer</code>
       </p>
     </td>
   </tr>
@@ -287,12 +232,7 @@
     <td align="center" colspan="2" valign="top">
       <h4>🗄️ Databases & Frameworks</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" height="45" />
-        <img src="https://skillicons.dev/icons?i=sqlite" height="45" />
-        <img src="https://skillicons.dev/icons?i=flask" height="45" />
-        <img src="https://skillicons.dev/icons?i=react" height="45" />
-        <img src="https://skillicons.dev/icons?i=git" height="45" />
-        <img src="https://skillicons.dev/icons?i=github" height="45" />
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,react,git,github" height="40" />
       </p>
     </td>
   </tr>
