@@ -1,101 +1,103 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Systems+Engineer;Network+Architect;Security+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Network+Architect;Forensic+Analyst;Ethical+Hacker" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems--Engineer-00FF00?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Network--Architect-0055cc?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security--Analyst-cc2222?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Researcher-00FF00?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network-Architect-0055cc?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forensic-Analyst-7733bb?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical-Hacker-cc2222?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
 
 ### 🕵️ System Briefing
 
+**Greetings! I am Mr-Bastola.** I am a cybersecurity enthusiast and systems tracker. My focus is on understanding exactly how networks, computing layers, and operating systems function under the hood—and how to keep them stable, optimized, and secure.
+
 > **"I understand systems, networks, and security — and I build, analyze, and automate them."**
 
-I am a systems and network security focused engineer. I bridge the gap between enterprise administration, robust network architectures, and defensive operations. I specialize in configuring resilient environments, diagnosing infrastructure issues under pressure, and automating repetitive tasks to keep systems secure and available.
-
-- 🖥️ **OS Ecosystems:** `Linux (Ubuntu/Debian)` · `Windows Server` · `Windows Desktop (10/11)`
-- 📡 **Networking Core:** `Advanced Routing & Switching` · `VLAN Segmentation` · `Packet Analysis`
-- 🛠️ **Infrastructure Operations:** `System Administration` · `Technical Support & Advanced Troubleshooting`
-- ⚙️ **Automation & Logic:** `Python` · `Bash Scripting` · `PowerShell` · `Data Structures (DSA)`
+- 🖥️ **Command Center:** `Kali Linux` · `Ubuntu` · `Windows Server` · `Debian` · `Raspberry Pi`
+- 🔍 **Focus Areas:** `Penetration Testing` · `Network Security` · `Digital Forensics` · `OSINT`
+- 🧪 **Home Lab:** `VirtualBox` · `Proxmox` · `AWS Free Tier` · `pfSense` · `Cisco IOS`
+- 🛡️ **Defense:** `Firewalls` · `IDS/IPS` · `Log Monitoring` · `System Troubleshooting`
+- 🎯 **Goals:** `System Hardening` · `Threat Detection` · `Packet Analysis` · `Incident Response`
 
 ---
 
-### 🎓 Academic Core & Applied Engineering (BCSIT)
+### 🎓 Academic Core & Applied Capabilities (BCSIT)
 
-#### 📡 Enterprise Routing & Switching
+#### 📡 Advanced Routing & Switching Technology
 <p><img src="https://skillicons.dev/icons?i=cisco,cloudflare" /></p>
-* Focuses on structural switching architectures, multi-area routing protocols, network isolation via VLANs, and engineering resilient data pathways while troubleshooting performance bottlenecks.
+* Building on structural switching architectures and routing layers. Practical focus on data path tracing, network isolation via VLAN segmentations, and debugging structural connectivity bottlenecks.
 
-#### 🖥️ Systems Administration & Lifecycle Management
-<p><img src="https://skillicons.dev/icons?i=linux,windows" /></p>
-* Hands-on implementation of enterprise directory services, Active Directory, GPO infrastructure, system hardening, access control mapping, and comprehensive event log auditing.
+#### 🖥️ Windows Server & Linux System Administration
+<p><img src="https://skillicons.dev/icons?i=windows,linux" /></p>
+* Full lifecycle configuration of enterprise operating systems. Managing user privileges, directory structures, environment baseline protections, and internal log tracking.
 
-#### 🛠️ Technical Diagnostics & OS Troubleshooting
+#### 🛠️ Tech Support & Operating System Diagnostics
 <p><img src="https://skillicons.dev/icons?i=powershell,bash" /></p>
-* Deep OS-level triaging—analyzing system event logs, identifying driver and registry corruption, resolving kernel issues, and engineering scripts to automate structural workstation-to-server fixes.
+* Deep triage of deployment faults—debugging Windows/Linux software states, interpreting desktop-to-server connection failures, evaluating error logs, and fixing environment problems.
 
-#### 🛡️ Defensive Operations & Incident Response
+#### 🛡️ Information Security, Hacking & Forensics
 <p><img src="https://skillicons.dev/icons?i=kali,docker" /></p>
-* Practical integration of threat mitigation frameworks, vulnerability assessments, digital forensics triage, packet-level data carving, and continuous baseline security hardening.
+* Applying target-hardening rulesets, tracking vulnerability mechanics, breaking down packet telemetry, and using forensic tools for digital asset capture and trace recovery.
 
-#### 💻 Software Logic & Algorithmic Automation
+#### 💻 Software Engineering & Algorithmic Logic
 <p><img src="https://skillicons.dev/icons?i=py,c,cpp" /></p>
-* Writing performant, structurally sound logic. Utilizing optimized data structures and algorithms to design automation workflows, custom security scripts, and log-parsing utilities.
+* Designing clean, structural software routines. Using proper data structures and scripting components to automate validation tasks, custom scrapers, and event-log analysis utilities.
 
 ---
 
-### 🛠️ Core Engineering Stack
+### 🛠️ Technical Knowledge Base
 
 <table align="center">
   <tr>
-    <td align="left" width="420" valign="top">
-      <h4>🖥️ Systems Administration & Support</h4>
-      <p><img src="https://skillicons.dev/icons?i=linux,windows,powershell,bash,raspberrypi" /></p>
-      <ul>
-        <li><strong>Platforms:</strong> Ubuntu, Debian, Windows Server, Windows 10/11</li>
-        <li>Active Directory domain management, GPOs, & local policies</li>
-        <li>System telemetry, Event Viewer parsing, & centralized Syslog</li>
-        <li>OS diagnostics, kernel failure triaging, & remote technical support</li>
-        <li><strong>Services:</strong> DNS, DHCP, SSH, FTP, Fail2Ban deployment</li>
-      </ul>
+    <td align="center" width="420" valign="top">
+      <h4>⚔️ Red Team & Pentesting</h4>
+      <p><img src="https://skillicons.dev/icons?i=kali,linux,bash" /></p>
+      <p>
+        <code>Nmap</code> · <code>Metasploit</code> · <code>BurpSuite</code> · <code>SQLmap</code> · <code>Nikto</code> · <code>Gobuster</code> · <code>Hydra</code> · <code>Hashcat</code> · <code>John the Ripper</code> · <code>Aircrack-ng</code> · <code>Netcat</code> · <code>Exploit-DB</code> · <code>OWASP ZAP</code>
+      </p>
     </td>
-    <td align="left" width="420" valign="top">
-      <h4>📡 Routing, Switching & Infrastructure</h4>
-      <p><img src="https://skillicons.dev/icons?i=cisco,cloudflare,aws,docker,nginx" /></p>
-      <ul>
-        <li><strong>Hardware/Routing:</strong> Cisco IOS, L2/L3 structural switching</li>
-        <li>VLAN segmentation, Access Control Lists (ACLs), & NAT/PAT</li>
-        <li><strong>Traffic Analysis:</strong> Wireshark deep packet capture & tcpdump</li>
-        <li><strong>Web Services:</strong> Reverse proxies via Nginx and Apache servers</li>
-        <li><strong>Infrastructure:</strong> Hybrid connections using AWS, Docker, & Cloudflare</li>
-      </ul>
+    <td align="center" width="420" valign="top">
+      <h4>🛡️ Blue Team, Systems Admin & Support</h4>
+      <p><img src="https://skillicons.dev/icons?i=linux,windows,powershell,docker" /></p>
+      <p>
+        <code>Fail2Ban</code> · <code>UFW</code> · <code>iptables</code> · <code>Snort</code> · <code>Suricata</code> · <code>YARA Rules</code> · <code>Active Directory</code> · <code>Group Policy</code> · <code>OS Diagnostics</code> · <code>Desktop/Server Tech Support</code>
+      </p>
     </td>
   </tr>
   <tr>
-    <td align="left" width="420" valign="top">
-      <h4>🛡️ Threat Defense & Digital Forensics</h4>
-      <p><img src="https://skillicons.dev/icons?i=kali,elasticsearch,debian" /></p>
-      <ul>
-        <li><strong>SIEM Ecosystems:</strong> Wazuh deployment & ELK Stack aggregation</li>
-        <li><strong>IDS/IPS Mechanics:</strong> Snort & Suricata rule monitoring</li>
-        <li>Vulnerability assessments using Nessus & OpenVAS engines</li>
-        <li><strong>Forensics:</strong> Triage with Autopsy, Volatility, & FTK Imager</li>
-        <li>Network-level intrusion tracking & live packet-stream analysis</li>
-      </ul>
+    <td align="center" width="420" valign="top">
+      <h4>📡 Networking, Routing & Switching</h4>
+      <p><img src="https://skillicons.dev/icons?i=cisco,aws,cloudflare" /></p>
+      <p>
+        <code>TCP/IP</code> · <code>DNS</code> · <code>DHCP</code> · <code>HTTP/HTTPS</code> · <code>SSH</code> · <code>FTP</code> · <code>VLAN Segmentation</code> · <code>Advanced Routing</code> · <code>Advanced Switching</code> · <code>Wireshark</code> · <code>Tcpdump</code> · <code>Cisco IOS</code> · <code>NAT/PAT</code>
+      </p>
     </td>
-    <td align="left" width="420" valign="top">
-      <h4>💻 Programming, Web & Data Logic</h4>
-      <p><img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts,git" /></p>
-      <ul>
-        <li><strong>Automation:</strong> Python scripting, Bash utilities, & PowerShell tasks</li>
-        <li><strong>Core Systems Logic:</strong> Data Structures & Algorithms via C / C++</li>
-        <li><strong>Web Pipelines:</strong> Secure API management via FastAPI, Node.js, & Flask</li>
-        <li>Log scraping, complex Regular Expressions (Regex), & socket code</li>
-        <li>Version control, git tracking, & secure repository management</li>
-      </ul>
+    <td align="center" width="420" valign="top">
+      <h4>🔵 SOC, Monitoring & Storage</h4>
+      <p><img src="https://skillicons.dev/icons?i=elasticsearch,grafana,mysql" /></p>
+      <p>
+        <code>Splunk</code> · <code>ELK Stack</code> · <code>Wazuh</code> · <code>Nessus</code> · <code>OpenVAS</code> · <code>TheHive</code> · <code>MITRE ATT&CK</code> · <code>Syslog / Event Viewer</code> · <code>MySQL</code> · <code>SQLite</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="420" valign="top">
+      <h4>🔍 Digital Forensics</h4>
+      <p><img src="https://skillicons.dev/icons?i=debian,py,raspberrypi" /></p>
+      <p>
+        <code>Autopsy</code> · <code>Volatility</code> · <code>FTK Imager</code> · <code>Binwalk</code> · <code>Ghidra</code> · <code>CyberChef</code> · <code>ExifTool</code> · <code>Strings</code> · <code>File Carving</code> · <code>Hardware Labs (Raspberry Pi)</code>
+      </p>
+    </td>
+    <td align="center" width="420" valign="top">
+      <h4>💻 Programming, Scripting & Web</h4>
+      <p><img src="https://skillicons.dev/icons?i=py,c,cpp,cs,html,css,flask,git" /></p>
+      <p>
+        <code>Python (Primary)</code> · <code>Bash Scripting</code> · <code>PowerShell</code> · <code>C / C++</code> · <code>C#</code> · <code>Flask Basics</code> · <code>HTML5 / CSS3</code> · <code>Scapy</code> · <code>Socket Programming</code> · <code>Regex</code> · <code>Git / GitHub</code>
+      </p>
     </td>
   </tr>
 </table>
@@ -111,7 +113,6 @@ I am a systems and network security focused engineer. I bridge the gap between e
     style="image-rendering: pixelated; border-radius: 10px;"
   />
 </p>
-
 ---
 
 ### 📬 Establish Connection
