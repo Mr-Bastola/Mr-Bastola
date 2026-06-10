@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Network+Architect;Forensic+Analyst;Ethical+Hacker;Full+Stack+Security+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=MR-BASTOLA;Security+Researcher;Network+Architect;Forensic+Analyst;Ethical+Hacker;System+Security+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,37 +7,34 @@
   <img src="https://img.shields.io/badge/Network-Architect-0055cc?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Forensic-Analyst-7733bb?style=for-the-badge&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethical-Hacker-cc2222?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Engineer-ff8800?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ---
 
 ### 🕵️ System Briefing
 
-**Greetings! I am Mr-Bastola.** I'm a cybersecurity and systems engineering enthusiast focused on understanding how networks, systems, and applications behave — and how they can be tested, secured, and optimized.
+**Greetings! I am Mr-Bastola.** I'm a cybersecurity enthusiast focused on understanding how networks and systems work — and how they can be broken.
 
-I enjoy building secure lab environments, developing monitoring systems, and working on full-stack security-oriented platforms like SOC dashboards and network intelligence tools.
+I enjoy building secure lab environments, learning offensive and defensive techniques, and working on system-level security projects and network analysis tools.
 
 - 🖥️ **Command Center:** `Kali Linux` · `Ubuntu` · `Windows Server` · `Debian`
 - 🔍 **Focus Areas:** `Penetration Testing` · `Network Security` · `Digital Forensics` · `OSINT`
 - 🧪 **Home Lab:** `VirtualBox` · `Proxmox` · `AWS Free Tier` · `pfSense`
 - 🛡️ **Defense:** `Firewalls` · `IDS/IPS` · `Log Monitoring` · `Encryption`
-- 🎯 **Goals:** `Threat Detection` · `Incident Response` · `Secure Architecture` · `System Design`
+- 🎯 **Goals:** `System Hardening` · `Threat Detection` · `Packet Analysis` · `Incident Response`
 
 ---
 
-### 🎓 Academic Foundation (BCSIT Core Strength)
+### 🎓 BCSIT Core Academic Skills (Added for Context)
 
-> Selected high-impact subjects only (not full syllabus)
-
-- 🌐 Computer Networks (TCP/IP, routing, subnetting, Wireshark analysis)
-- 🧠 Data Structures & Algorithms (problem solving, efficiency, logic building)
-- 💾 Operating Systems (process management, memory, Linux fundamentals)
-- 🗄️ Database Management Systems (SQL, normalization, indexing, optimization)
-- 🔐 Cybersecurity Fundamentals (network security, attack vectors, defense models)
-- 🔑 Cryptography Basics (encryption, hashing, authentication systems)
-- 🧩 Software Engineering (SDLC, system design, architecture thinking)
-- 🐧 Linux Administration (shell, permissions, system control, automation)
+- Computer Networks (TCP/IP, routing basics, Wireshark understanding)
+- C Programming (logic building, memory concepts, low-level programming)
+- Data Structures & Algorithms (problem solving & efficiency thinking)
+- Operating Systems (process, memory, Linux fundamentals)
+- Database Management Systems (SQL, relational design, indexing basics)
+- Software Engineering (SDLC, system design awareness)
+- Cybersecurity Fundamentals (attack/defense concepts, network security basics)
+- Cryptography Basics (hashing, encryption principles)
 
 ---
 
