@@ -118,10 +118,10 @@
     <td align="center" width="420" valign="top">
       <h4>🔍 Forensics & Traffic Extraction</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=linux,py,vscode,git" height="40" />
+        <img src="https://skillicons.dev/icons?i=visualstudio,android,py,git" height="40" />
       </p>
       <p>
-        <code>Linux</code> · <code>Python</code> · <code>VSCode</code> · <code>Git</code>
+        <code>VS</code> · <code>Android</code> · <code>Python</code> · <code>Git</code>
       </p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
@@ -133,10 +133,10 @@
     <td align="center" width="420" valign="top">
       <h4>💻 Software Logic & Algorithmic Design</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=py,c,js,react" height="40" />
+        <img src="https://skillicons.dev/icons?i=c,js,react,html" height="40" />
       </p>
       <p>
-        <code>Python</code> · <code>C</code> · <code>JavaScript</code> · <code>React</code>
+        <code>C</code> · <code>JavaScript</code> · <code>React</code> · <code>HTML</code>
       </p>
       <hr style="border: 0.5px solid #444;" />
       <ul align="left">
@@ -157,31 +157,31 @@
     <td align="center" width="420" valign="top">
       <h4>🖥️ Operating Systems</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,redhat" height="40" />
+        <img src="https://skillicons.dev/icons?i=kali,fedora,windows,android" height="40" />
       </p>
       <p>
-        <code>Kali Linux</code> · <code>Ubuntu</code> · <code>Windows</code> · <code>RedHat</code>
+        <code>Kali</code> · <code>Fedora</code> · <code>Windows</code> · <code>Android</code>
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=debian,fedora,raspberrypi,android" height="40" />
+        <img src="https://skillicons.dev/icons?i=ubuntu,debian,redhat,raspberrypi" height="40" />
       </p>
       <p>
-        <code>Debian</code> · <code>Fedora</code> · <code>Raspberry Pi</code> · <code>Android</code>
+        <code>Ubuntu</code> · <code>Debian</code> · <code>RedHat</code> · <code>Raspberry Pi</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
       <h4>💻 Programming Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=py,c,js,react" height="40" />
+        <img src="https://skillicons.dev/icons?i=py,c,bash,powershell" height="40" />
       </p>
       <p>
-        <code>Python</code> · <code>C</code> · <code>JavaScript</code> · <code>React</code>
+        <code>Python</code> · <code>C</code> · <code>Bash</code> · <code>PowerShell</code>
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=bash,powershell,html,css" height="40" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,react" height="40" />
       </p>
       <p>
-        <code>Bash</code> · <code>PowerShell</code> · <code>HTML</code> · <code>CSS</code>
+        <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>React</code>
       </p>
     </td>
   </tr>
@@ -192,17 +192,21 @@
         <img src="https://skillicons.dev/icons?i=kali,linux,postman,git" height="40" />
       </p>
       <p>
-        <code>Metasploit</code> · <code>Burp Suite</code> · <code>Nmap</code> · <code>SQLmap</code><br>
+        <code>Metasploit</code> · <code>Burp Suite</code> · <code>Nmap</code> · <code>SQLmap</code>
+      </p>
+      <p>
         <code>Nikto</code> · <code>Gobuster</code> · <code>Hydra</code> · <code>Hashcat</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
       <h4>🛡️ Defensive & Blue Team Tools</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=linux,grafana,prometheus,elasticsearch" height="40" />
+        <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,linux" height="40" />
       </p>
       <p>
-        <code>Splunk</code> · <code>Wazuh</code> · <code>Snort</code> · <code>Suricata</code><br>
+        <code>Splunk</code> · <code>Wazuh</code> · <code>Snort</code> · <code>Suricata</code>
+      </p>
+      <p>
         <code>Fail2Ban</code> · <code>UFW</code> · <code>iptables</code> · <code>YARA</code>
       </p>
     </td>
@@ -214,17 +218,21 @@
         <img src="https://skillicons.dev/icons?i=nginx,cloudflare,docker,aws" height="40" />
       </p>
       <p>
-        <code>Cisco IOS</code> · <code>pfSense</code> · <code>TCP/IP</code> · <code>DNS</code><br>
+        <code>Cisco IOS</code> · <code>pfSense</code> · <code>TCP/IP</code> · <code>DNS</code>
+      </p>
+      <p>
         <code>DHCP</code> · <code>SSH</code> · <code>VLANs</code> · <code>OSPF/BGP</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
       <h4>🔍 Digital Forensics</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=linux,py,vscode,git" height="40" />
+        <img src="https://skillicons.dev/icons?i=visualstudio,py,git,linux" height="40" />
       </p>
       <p>
-        <code>Autopsy</code> · <code>Volatility</code> · <code>FTK Imager</code> · <code>Ghidra</code><br>
+        <code>Autopsy</code> · <code>Volatility</code> · <code>FTK Imager</code> · <code>Ghidra</code>
+      </p>
+      <p>
         <code>Binwalk</code> · <code>CyberChef</code> · <code>ExifTool</code> · <code>Strings</code>
       </p>
     </td>
@@ -242,7 +250,7 @@
         <img src="https://skillicons.dev/icons?i=gcp,ansible,jenkins,linux" height="40" />
       </p>
       <p>
-        <code>GCP</code> · <code>Ansible</code> · <code>Jenkins</code> · <code>Linux Containers</code>
+        <code>GCP</code> · <code>Ansible</code> · <code>Jenkins</code> · <code>Containers</code>
       </p>
     </td>
     <td align="center" width="420" valign="top">
@@ -251,7 +259,9 @@
         <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,linux" height="40" />
       </p>
       <p>
-        <code>Splunk</code> · <code>ELK Stack</code> · <code>Wazuh</code> · <code>Nessus</code><br>
+        <code>Splunk</code> · <code>ELK Stack</code> · <code>Wazuh</code> · <code>Nessus</code>
+      </p>
+      <p>
         <code>OpenVAS</code> · <code>TheHive</code> · <code>MITRE ATT&CK</code>
       </p>
     </td>
